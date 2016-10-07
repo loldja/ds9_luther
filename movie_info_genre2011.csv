@@ -1,0 +1,1976 @@
+genre,dtg,mpaa,releasedate,budget,runtime,title
+Sci-Fi Fantasy,936662225,PG-13,2015-12-18 00:00:00,245000000,136,Star Wars: The Force Awakens
+Sci-Fi Horror,652270625,PG-13,2015-06-12 00:00:00,150000000,124,Jurassic World
+Action,353007020,PG-13,2015-04-03 00:00:00,190000000,137,Furious 7
+Action / Adventure,459005868,PG-13,2015-05-01 00:00:00,250000000,141,Avengers: Age of Ultron
+Animation,336045770,PG,2015-07-10 00:00:00,74000000,91,Minions
+Action,200074609,PG-13,2015-11-06 00:00:00,245000000,148,Spectre
+Animation,356461711,PG,2015-06-19 00:00:00,175000000,94,Inside Out
+Action,195042377,PG-13,2015-07-31 00:00:00,150000000,130,Mission: Impossible - Rogue Nation
+Action / Adventure,281723902,PG-13,2015-11-20 00:00:00,160000000,137,The Hunger Games: Mockingjay - Part 2
+Sci-Fi,228433663,PG-13,2015-10-02 00:00:00,108000000,141,The Martian
+Romance,166167230,R,2015-02-13 00:00:00,40000000,125,Fifty Shades of Grey
+Fantasy,201151353,PG,2015-03-13 00:00:00,95000000,112,Cinderella
+Action / Adventure,183637894,R,2015-12-25 00:00:00,135000000,151,The Revenant
+Action / Adventure,180202163,PG-13,2015-07-17 00:00:00,130000000,117,Ant-Man
+Action,155190832,PG-13,2015-05-29 00:00:00,110000000,114,San Andreas
+Animation,169700110,PG,2015-09-25 00:00:00,80000000,89,Hotel Transylvania 2
+Action,89760956,PG-13,2015-07-01 00:00:00,155000000,126,Terminator: Genisys
+Action / Adventure,128261724,R,2015-02-13 00:00:00,81000000,129,Kingsman: The Secret Service
+Animation,177397510,PG,2015-03-27 00:00:00,135000000,94,Home
+Sci-Fi Action,153636354,R,2015-05-15 00:00:00,150000000,120,Mad Max: Fury Road
+Animation,123087120,PG,2015-11-25 00:00:00,nan,100,The Good Dinosaur
+Action,89256424,PG-13,2015-01-09 00:00:00,48000000,109,Taken 3
+Animation,162994032,PG,2015-02-06 00:00:00,74000000,93,The SpongeBob Movie: Sponge Out of Water
+Action / Adventure,81697192,PG-13,2015-09-18 00:00:00,61000000,131,Maze Runner: The Scorch Trials
+Action / Adventure,130179072,PG-13,2015-03-20 00:00:00,110000000,119,The Divergent Series: Insurgent
+Family,76271832,PG,2015-01-16 00:00:00,55000000,95,Paddington
+Comedy,184296230,PG-13,2015-05-15 00:00:00,29000000,115,Pitch Perfect 2
+Action / Adventure,1243810,Unrated,2015-12-18 00:00:00,37000000,127,Mojin: The Lost Legend
+Comedy,1302281,Unrated,2015-09-25 00:00:00,nan,113,Lost in Hong Kong
+Animation,130178411,G,2015-11-06 00:00:00,99000000,93,The Peanuts Movie
+Action Comedy,78747585,PG-13,2015-07-24 00:00:00,88000000,105,Pixels
+Comedy,150357137,PG-13,2015-12-25 00:00:00,nan,96,Daddy's Home
+Comedy,110825712,R,2015-06-05 00:00:00,65000000,120,Spy
+Family Comedy,85886987,PG,2015-12-18 00:00:00,nan,86,Alvin and the Chipmunks: The Road Chip
+Comedy,1293626,Unrated,2015-10-09 00:00:00,nan,104,Goodbye Mr. Loser
+Comedy,81476385,R,2015-06-26 00:00:00,68000000,115,Ted 2
+Sci-Fi,93436322,PG,2015-05-22 00:00:00,190000000,130,Tomorrowland
+Thriller,43482270,PG-13,2015-09-18 00:00:00,55000000,121,Everest
+Drama,161197785,R,2015-08-14 00:00:00,28000000,147,Straight Outta Compton
+Comedy,75764672,PG-13,2015-09-25 00:00:00,35000000,121,The Intern
+Sci-Fi,47387723,PG-13,2015-02-06 00:00:00,176000000,127,Jupiter Ascending
+Drama,109767581,PG-13,2015-11-25 00:00:00,35000000,133,Creed
+Action / Adventure,56117548,PG-13,2015-08-07 00:00:00,120000000,100,Fantastic Four
+Thriller,72313754,PG-13,2015-10-16 00:00:00,40000000,140,Bridge of Spies
+Comedy,53862963,R,2015-02-27 00:00:00,50100000,104,Focus
+Western,54117416,R,2015-12-25 00:00:00,44000000,167,The Hateful Eight
+Horror Comedy,80080379,PG,2015-10-16 00:00:00,58000000,103,Goosebumps
+Comedy,110212700,R,2015-07-17 00:00:00,35000000,125,Trainwreck
+Action Fantasy,27367660,PG-13,2015-10-23 00:00:00,90000000,106,The Last Witch Hunter
+Action,1415450,Unrated,2015-12-24 00:00:00,nan,134,Mr. Six
+Action,28782481,PG-13,2015-12-25 00:00:00,105000000,113,Point Break
+Drama,70259870,R,2015-12-11 00:00:00,28000000,130,The Big Short
+Fantasy,35088320,PG,2015-10-09 00:00:00,150000000,111,Pan
+Adventure,0,PG-13,2015-09-11 00:00:00,nan,121,Wolf Totem
+Comedy / Drama,66013057,R,2015-07-01 00:00:00,14800000,115,Magic Mike XXL
+Action / Adventure,0,R,2015-09-04 00:00:00,nan,127,Dragon Blade
+Fantasy,17223265,PG-13,2015-02-06 00:00:00,95000000,102,Seventh Son
+Horror,52218558,PG-13,2015-06-05 00:00:00,10000000,97,Insidious Chapter 3
+Comedy,90411453,R,2015-03-27 00:00:00,40000000,100,Get Hard
+Action,45445109,PG-13,2015-08-14 00:00:00,75000000,116,The Man From U.N.C.L.E.
+Comedy,71038190,PG,2015-04-17 00:00:00,30000000,94,Paul Blart: Mall Cop 2
+Animation,19375982,PG,2015-08-05 00:00:00,nan,85,Shaun the Sheep Movie
+Comedy,87044645,R,2015-12-18 00:00:00,30000000,118,Sisters
+Comedy,58884188,R,2015-07-29 00:00:00,31000000,99,Vacation
+Sci-Fi Action,31569268,R,2015-03-06 00:00:00,49000000,120,Chappie
+Comedy / Drama,56451232,PG-13,2015-12-25 00:00:00,60000000,124,Joy
+Crime Drama,62575678,R,2015-09-18 00:00:00,53000000,122,Black Mass
+Comedy,131058,Unrated,2015-12-31 00:00:00,nan,125,Devil and Angel
+Horror,65206105,PG-13,2015-09-11 00:00:00,5000000,94,The Visit
+Horror,47425125,PG-13,2015-05-22 00:00:00,35000000,93,Poltergeist
+Drama,25020758,PG-13,2015-12-11 00:00:00,100000000,121,In the Heart of the Sea
+Drama,52421953,R,2015-07-24 00:00:00,30000000,123,Southpaw
+Drama,45055776,R,2015-11-06 00:00:00,nan,128,Spotlight
+Comedy / Drama,33078266,PG,2015-03-06 00:00:00,10000000,122,The Second Best Exotic Marigold Hotel
+Drama,32000304,PG-13,2015-07-24 00:00:00,12000000,109,Paper Towns
+Action Drama,46889293,R,2015-09-18 00:00:00,30000000,121,Sicario
+Action / Adventure,22467450,R,2015-08-21 00:00:00,35000000,96,Hitman: Agent 47
+Comedy,64460211,R,2015-01-16 00:00:00,23000000,101,The Wedding Ringer
+Horror,18300124,R,2015-10-23 00:00:00,10000000,95,Paranormal Activity: The Ghost Dimension
+Horror,31090320,R,2015-10-16 00:00:00,55000000,119,Crimson Peak
+Action,16029670,PG-13,2015-09-04 00:00:00,nan,96,The Transporter Refueled
+Action,26461644,R,2015-03-13 00:00:00,50000000,114,Run All Night
+Drama,67790117,PG,2015-08-28 00:00:00,3000000,120,War Room
+Drama,42629776,PG-13,2015-04-24 00:00:00,nan,112,The Age of Adaline
+Drama,11114018,R,2015-11-27 00:00:00,nan,120,The Danish Girl
+Horror,32482090,R,2015-04-17 00:00:00,1000000,83,Unfriended
+Romance,37446117,PG-13,2015-04-10 00:00:00,34000000,139,The Longest Ride
+Drama,38322743,PG-13,2015-11-04 00:00:00,nan,111,Brooklyn
+Animation,8008363,Unrated,2015-08-04 00:00:00,nan,105,Dragon Ball Z: Resurrection 'F'
+Drama,33307793,PG-13,2015-04-01 00:00:00,11000000,109,Woman in Gold
+Horror Comedy,42725475,PG-13,2015-12-04 00:00:00,15000000,98,Krampus
+Adventure,10137502,PG,2015-09-30 00:00:00,35000000,123,The Walk
+Thriller,57027435,PG-13,2015-09-11 00:00:00,12000000,100,The Perfect Guy
+Thriller,43787265,R,2015-08-07 00:00:00,5000000,108,The Gift
+Action,27288872,R,2015-08-26 00:00:00,nan,101,No Escape
+Horror,27740955,R,2015-08-21 00:00:00,10000000,97,Sinister 2
+Musical,4364639,Unrated,2015-11-12 00:00:00,nan,171,Prem Ratan Dhan Payo
+Thriller,35423380,R,2015-01-23 00:00:00,4000000,91,The Boy Next Door
+Comedy,43047372,R,2015-11-20 00:00:00,25000000,101,The Night Before
+Comedy,34580201,PG-13,2015-05-08 00:00:00,35000000,87,Hot Pursuit
+Foreign,944193,R,2015-05-01 00:00:00,nan,114,The 100-Year Old Man Who Climbed Out the Window and Disappeared
+Drama,696717,Unrated,2015-12-18 00:00:00,nan,125,The Himalayas
+Comedy,32363404,R,2015-06-03 00:00:00,30000000,104,Entourage
+Horror,26501323,PG-13,2015-01-02 00:00:00,nan,98,The Woman in Black 2: Angel of Death
+Drama,34542474,PG-13,2015-12-25 00:00:00,35000000,123,Concussion
+Action Comedy,7696134,R,2015-01-23 00:00:00,60000000,106,Mortdecai
+Foreign,377607,PG-13,2015-09-09 00:00:00,nan,109,Coming Home
+Sports Drama,44482410,PG,2015-02-20 00:00:00,nan,128,"McFarland, USA"
+Family,42656255,PG,2015-06-26 00:00:00,20000000,111,Max
+Drama,18754371,PG-13,2015-01-16 00:00:00,5000000,101,Still Alice
+Comedy,34030343,PG-13,2015-02-20 00:00:00,8500000,101,The DUFF
+Crime Drama,1872994,R,2015-11-20 00:00:00,nan,131,Legend
+Horror,22764410,R,2015-07-10 00:00:00,100000,81,The Gallows
+Comedy,26302731,PG-13,2015-11-13 00:00:00,17000000,107,Love the Coopers
+Drama,10021175,PG-13,2015-12-04 00:00:00,nan,104,The Lady in the Van
+Comedy / Drama,26822144,PG-13,2015-08-07 00:00:00,18000000,101,Ricki and the Flash
+Drama,12711491,R,2015-11-20 00:00:00,nan,118,Carol
+Horror,25801047,PG-13,2015-02-27 00:00:00,3300000,83,The Lazarus Effect
+War Drama,4196641,R,2015-04-24 00:00:00,22500000,111,The Water Diviner
+Sci-Fi Thriller,25442958,R,2015-04-10 00:00:00,15000000,110,Ex Machina
+Comedy,13651946,R,2015-10-30 00:00:00,20000000,100,Burnt
+Comedy,29504281,R,2015-09-02 00:00:00,nan,104,A Walk in the Woods
+Drama,14677654,R,2015-10-16 00:00:00,nan,118,Room
+Drama,17766658,R,2015-10-09 00:00:00,30000000,122,Steve Jobs
+Drama,5775076,PG-13,2015-11-25 00:00:00,nan,109,Victor Frankenstein
+Sci-Fi,22348241,PG-13,2015-01-30 00:00:00,12000000,106,Project Almanac
+Thriller,20180155,PG-13,2015-11-20 00:00:00,19500000,111,The Secret in their Eyes
+Sci-Fi Thriller,12279691,PG-13,2015-07-10 00:00:00,26000000,117,Self/Less
+Drama,12236500,PG-13,2015-05-01 00:00:00,nan,119,Far from the Madding Crowd
+Crime Drama,17737646,PG,2015-07-17 00:00:00,nan,103,Mr. Holmes
+Music Drama,12551031,PG-13,2015-06-05 00:00:00,nan,121,Love & Mercy
+Comedy,4030360,R,2015-07-17 00:00:00,nan,96,Irrational Man
+Action Comedy,14440985,R,2015-08-21 00:00:00,28000000,96,American Ultra
+Foreign,3106530,R,2015-02-20 00:00:00,nan,122,Wild Tales
+Comedy / Drama,21067116,PG-13,2015-05-29 00:00:00,37000000,105,Aloha
+Romantic Comedy,20431,R,2015-02-06 00:00:00,nan,102,"Love, Rosie"
+Drama,12227722,PG-13,2015-11-13 00:00:00,nan,120,The 33
+Thriller,10664749,R,2015-03-20 00:00:00,40000000,115,The Gunman
+Comedy,286639,Unrated,2015-08-14 00:00:00,nan,85,Go Away Mr. Tumor
+Drama,21571189,PG-13,2015-01-30 00:00:00,9000000,121,Black or White
+Thriller,8005980,R,2015-01-16 00:00:00,70000000,135,Blackhat
+Comedy / Drama,17506470,R,2015-06-19 00:00:00,7000000,115,Dope
+Action Drama,613775,Unrated,2015-08-14 00:00:00,nan,156,Brothers: Blood Against Blood
+Comedy / Drama,7587485,R,2015-03-27 00:00:00,nan,94,While We're Young
+Documentary,16432322,G,2015-04-17 00:00:00,nan,81,Monkey Kingdom
+Drama,1110707,R,2015-12-04 00:00:00,nan,110,Macbeth
+Drama,4702420,PG-13,2015-10-23 00:00:00,nan,106,Suffragette
+Horror Comedy,3703046,R,2015-10-30 00:00:00,15000000,93,Scouts Guide to the Zombie Apocalypse
+Horror,14674076,R,2015-03-13 00:00:00,nan,97,It Follows
+Comedy,10219501,R,2015-03-06 00:00:00,35000000,91,Unfinished Business
+Drama,14394097,PG,2015-10-16 00:00:00,nan,123,Woodlawn
+Animation,12429583,PG,2015-01-23 00:00:00,nan,99,Strange Magic
+Comedy,12314651,R,2015-02-20 00:00:00,14000000,93,Hot Tub Time Machine 2
+Drama,12985600,PG-13,2015-03-20 00:00:00,nan,120,Do You Believe?
+Drama,1224330,R,2015-04-17 00:00:00,nan,137,Child 44
+Drama,3591417,R,2015-08-28 00:00:00,nan,96,We Are Your Friends
+Comedy / Drama,5637066,R,2015-03-20 00:00:00,10000000,106,Danny Collins
+Foreign / Action,129784,Unrated,2015-04-24 00:00:00,nan,100,Kung Fu Killer
+Drama,558173,R,2015-06-26 00:00:00,nan,117,A Little Chaos
+Thriller,6002684,R,2015-01-30 00:00:00,nan,108,The Loft
+Adventure,173564,PG,2015-07-31 00:00:00,nan,105,The Young & Prodigious T.S. Spivet
+Period Drama,46425,R,2015-10-02 00:00:00,nan,104,Shanghai
+Animation,9080818,PG-13,2015-09-04 00:00:00,5300000,98,Un Gallo con Muchos Huevos
+Drama,6758416,PG-13,2015-06-12 00:00:00,8000000,104,Me and Earl and the Dying Girl
+Documentary,8413144,R,2015-07-03 00:00:00,nan,128,Amy
+Animation,6690,PG,2015-12-04 00:00:00,nan,97,Capture the Flag
+Romantic Comedy,521794,Unrated,2015-10-22 00:00:00,nan,144,Shaandaar
+Drama,7857741,R,2015-11-06 00:00:00,nan,124,Trumbo
+Drama,8178001,Unrated,2015-07-17 00:00:00,nan,163,Bajrangi Bhaijaan
+Comedy / Drama,7449681,PG-13,2015-05-15 00:00:00,nan,92,I'll See You In My Dreams
+Horror,7192291,R,2015-09-25 00:00:00,5000000,100,The Green Inferno
+Comedy,6980524,R,2015-08-21 00:00:00,600000,78,Grandma
+Comedy / Drama,7002261,R,2015-10-30 00:00:00,28000000,108,Our Brand Is Crisis
+Action / Adventure,6738000,Unrated,2015-07-09 00:00:00,nan,159,Baahubali: The Beginning
+Drama,6557047,Unrated,2015-12-18 00:00:00,nan,150,Bajirao Mastani
+Drama,6485961,PG-13,2015-04-24 00:00:00,nan,106,Little Boy
+Comedy,3469224,R,2015-02-13 00:00:00,nan,86,What We Do in the Shadows
+Drama,2436633,PG-13,2015-09-16 00:00:00,nan,114,Pawn Sacrifice
+Drama,176391,R,2015-03-27 00:00:00,nan,109,Serena
+Foreign,44995,Unrated,2015-04-17 00:00:00,nan,125,Mr. X
+Action Comedy,4871263,Unrated,2015-12-17 00:00:00,nan,158,Dilwale
+Action Comedy,1650000,PG,2015-10-21 00:00:00,nan,,Back to the Future Day
+Adventure Comedy,17484,R,2015-10-09 00:00:00,nan,114,Trash
+Drama,4719695,R,2015-04-17 00:00:00,nan,99,True Story
+Foreign,154356,PG-13,2015-01-30 00:00:00,nan,120,"Buen Dia, Ramon"
+Drama,235361,Unrated,2015-06-12 00:00:00,nan,129,Hamari Adhuri Kahani
+Drama,4247285,R,2015-12-23 00:00:00,nan,95,45 Years
+Animation,3759286,R,2015-12-30 00:00:00,8000000,90,Anomalisa
+Romantic Thriller,195792,R,2015-06-26 00:00:00,nan,120,Escobar: Paradise Lost
+Family,3618912,PG-13,2015-01-16 00:00:00,nan,83,Spare Parts
+Comedy,3447633,R,2015-08-21 00:00:00,nan,89,Learning to Drive
+Drama,538460,R,2015-11-13 00:00:00,10000000,122,By the Sea
+Comedy,819431,R,2015-09-11 00:00:00,nan,95,Sleeping with Other People
+Foreign,3184472,PG-13,2015-07-24 00:00:00,nan,98,Phoenix
+Historical Drama,560592,PG-13,2015-07-03 00:00:00,nan,109,Jimmy's Hall
+Drama,3066100,Unrated,2015-06-05 00:00:00,nan,170,Dil Dhadakne Do
+Comedy,3063505,PG-13,2015-10-09 00:00:00,nan,,Ladrones
+Romantic Comedy,3044347,Unrated,2015-05-22 00:00:00,nan,128,Tanu Weds Manu Returns
+Comedy / Drama,3020664,R,2015-10-23 00:00:00,nan,106,Rock The Kasbah
+Drama,3002884,R,2015-07-31 00:00:00,nan,106,The End of the Tour
+Thriller,2583301,PG-13,2015-09-18 00:00:00,nan,97,Captive
+Documentary,2668936,PG-13,2015-10-02 00:00:00,nan,87,He Named Me Malala
+Drama,2703296,R,2015-12-04 00:00:00,nan,118,Youth
+Drama,2541854,R,2015-10-16 00:00:00,nan,121,Truth
+Comedy,2500431,R,2015-08-14 00:00:00,nan,86,Mistress America
+Musical,2184640,PG,2015-10-23 00:00:00,5000000,118,Jem and the Holograms
+Foreign,54030,Unrated,2015-01-09 00:00:00,nan,171,Beloved Sisters
+Drama / Thriller,7734,R,2015-03-27 00:00:00,nan,107,The Riot Club
+Comedy / Drama,2065487,Unrated,2015-11-25 00:00:00,nan,139,Tamasha
+Drama,1951776,R,2015-01-23 00:00:00,nan,102,Cake
+Drama / Thriller,1904682,Unrated,2015-08-07 00:00:00,nan,140,Assassination
+Drama,1851517,R,2015-04-10 00:00:00,nan,120,Clouds of Sils Maria
+Drama,1822250,PG-13,2015-06-05 00:00:00,nan,129,Testament of Youth
+Comedy,1801807,Unrated,2015-05-08 00:00:00,nan,123,Piku
+Horror,1784763,PG-13,2015-07-24 00:00:00,nan,91,The Vatican Tapes
+Drama,1777043,R,2015-12-18 00:00:00,nan,107,Son of Saul
+Documentary,0,Unrated,2015-11-27 00:00:00,nan,103,Janis: Little Girl Blue
+War Drama,1270847,R,2015-02-27 00:00:00,nan,99,'71
+Drama,1477002,R,2015-08-07 00:00:00,nan,102,The Diary of a Teenage Girl
+Foreign,1449232,Unrated,2015-01-13 00:00:00,nan,188,I
+Comedy / Drama,1430655,R,2015-06-19 00:00:00,nan,90,Infinitely Polar Bear
+Thriller,1411927,R,2015-09-25 00:00:00,8000000,112,99 Homes
+Action Thriller,1388365,Unrated,2015-09-04 00:00:00,nan,152,Welcome Back
+Drama / Thriller,0,R,2015-10-16 00:00:00,nan,95,Remember
+Documentary,1343349,PG-13,2015-03-27 00:00:00,nan,110,The Salt of the Earth
+Drama,350741,R,2015-02-27 00:00:00,nan,111,Maps to the Stars
+Documentary,1310678,PG-13,2015-04-29 00:00:00,nan,80,Iris
+Documentary,1301696,R,2015-06-12 00:00:00,nan,80,The Wolfpack
+Action Comedy,1200627,Unrated,2015-09-18 00:00:00,nan,123,Veteran
+Horror Thriller,1178196,R,2015-09-11 00:00:00,nan,99,Goodnight Mommy
+Thriller,1171559,R,2015-01-23 00:00:00,nan,115,Black Sea
+Drama,1162653,PG-13,2015-11-06 00:00:00,nan,112,Miss You Already
+Drama,1156000,PG-13,2015-05-15 00:00:00,nan,95,Where Hope Grows
+Documentary,704352,R,2015-07-03 00:00:00,nan,98,Cartel Land
+Foreign,1076075,PG-13,2015-01-28 00:00:00,nan,97,Timbuktu
+Documentary,1028953,Unrated,2015-04-10 00:00:00,nan,90,Dior and I
+Drama,1020921,PG-13,2015-05-08 00:00:00,nan,92,5 Flights Up
+Romantic Comedy,1009301,PG-13,2015-10-09 00:00:00,nan,103,Big Stone Gap
+Foreign,988150,Unrated,2015-02-13 00:00:00,nan,115,Gett: The Trial of Viviane Amsalem
+Animation,919651,Unrated,2015-10-10 00:00:00,nan,100,Boruto: Naruto the Movie
+Action Comedy,919095,Unrated,2015-10-02 00:00:00,nan,140,Singh is Bling
+Musical,892133,Unrated,2015-06-19 00:00:00,nan,154,ABCD
+Drama,845464,PG-13,2015-11-20 00:00:00,nan,97,Mustang
+Foreign,794452,R,2015-09-30 00:00:00,nan,124,Labyrinth of Lies
+Comedy,673151,R,2015-05-08 00:00:00,nan,101,The D Train
+Documentary,743541,PG,2015-03-13 00:00:00,nan,81,Seymour: An Introduction
+Comedy / Drama,702354,R,2015-07-10 00:00:00,nan,88,Tangerine
+Documentary,694600,PG,2015-01-23 00:00:00,nan,76,Red Army
+Thriller,660561,R,2015-07-17 00:00:00,nan,122,The Stanford Prison Experiment
+Action Drama,632542,Unrated,2015-10-16 00:00:00,nan,107,The Assassin
+Adventure Comedy,623383,Unrated,2015-03-18 00:00:00,nan,105,"Kumiko, The Treasure Hunter"
+Comedy / Drama,608852,R,2015-05-01 00:00:00,nan,87,Welcome to Me
+Documentary,516893,Unrated,2015-09-02 00:00:00,nan,113,Black Panthers: Vanguard of the Revolution
+Thriller,579055,Unrated,2015-04-03 00:00:00,nan,135,Detective Byomkesh Bakshy
+Drama,573335,PG-13,2015-10-02 00:00:00,nan,103,Freeheld
+Animation,561085,PG,2015-05-22 00:00:00,nan,103,When Marnie Was There
+Foreign,534601,Unrated,2015-05-01 00:00:00,nan,128,Gabbar is Back
+Animation,524451,Unrated,2015-02-20 00:00:00,nan,112,The Last - Naruto the Movie
+Documentary,498428,Unrated,2015-11-06 00:00:00,nan,96,Peggy Guggenheim Art Addict
+Action Drama,489984,Unrated,2015-08-28 00:00:00,nan,136,Phantom
+Foreign,0,Unrated,2015-02-13 00:00:00,nan,109,Somewhere Only We Know
+Foreign,462918,Unrated,2015-04-03 00:00:00,nan,127,Let's Get Married
+Drama,450692,Unrated,2015-05-15 00:00:00,nan,149,Bombay Velvet
+Animation,449523,Unrated,2015-09-30 00:00:00,nan,90,Attack on Titan: Part 1
+Drama / Thriller,449191,Unrated,2015-06-26 00:00:00,nan,104,The Third Man
+Foreign,429477,R,2015-05-08 00:00:00,nan,150,Saint Laurent
+Documentary,425831,Unrated,2015-07-29 00:00:00,nan,102,Listen to Me Marlon
+Documentary,420813,Unrated,2015-10-21 00:00:00,nan,75,Heart of a Dog
+Drama,418063,Unrated,2015-10-30 00:00:00,nan,112,The Witness
+Documentary,410185,PG-13,2015-09-25 00:00:00,nan,106,Unbranded
+Foreign,376986,R,2015-08-28 00:00:00,nan,111,The Second Mother
+Animation,370146,PG,2015-10-01 00:00:00,nan,83,Kahlil Gibran's The Prophet
+Romantic Comedy,364932,Unrated,2015-09-18 00:00:00,nan,135,Katti Batti
+Animation,355343,PG,2015-08-07 00:00:00,nan,83,Kahlil Gibran's The Prophet
+Drama,352534,PG-13,2015-04-03 00:00:00,nan,108,Effie Gray
+Drama,347321,PG-13,2015-05-08 00:00:00,nan,101,Noble
+War Drama,337907,Unrated,2015-07-17 00:00:00,nan,130,Northern Limit Line
+Foreign,324597,Unrated,2015-02-06 00:00:00,nan,155,Shamitabh
+Drama,0,Unrated,2015-10-02 00:00:00,nan,82,Jafar Panahi's Taxi
+Drama,316472,R,2015-05-15 00:00:00,nan,102,Good Kill
+Foreign,310978,Unrated,2015-01-30 00:00:00,nan,88,Running Man
+Action Fantasy,305934,Unrated,2015-10-20 00:00:00,nan,,Attack on Titan: Part 2
+Adventure,0,Unrated,2015-11-06 00:00:00,nan,100,Theeb
+Foreign,282358,R,2015-03-27 00:00:00,nan,119,White God
+Drama,281540,Unrated,2015-06-26 00:00:00,nan,104,A Borrowed Identity
+Foreign,277528,R,2015-05-15 00:00:00,nan,116,In the Name of my Daughter
+Documentary,260430,PG-13,2015-12-02 00:00:00,nan,80,Hitchcock/Truffaut
+Drama,249083,Unrated,2015-10-30 00:00:00,3000000,135,Love
+Foreign,236002,Unrated,2015-01-09 00:00:00,nan,157,Tevar
+Foreign,234573,Unrated,2015-01-16 00:00:00,nan,131,20 Once Again
+Action Thriller,229094,R,2015-05-20 00:00:00,nan,84,Slow West
+Foreign / Action,228984,Unrated,2015-01-02 00:00:00,nan,136,The Taking of Tiger Mountain
+Drama,228136,PG-13,2015-12-04 00:00:00,nan,97,A Royal Night Out
+Comedy / Drama,222989,PG-13,2015-06-03 00:00:00,nan,101,A Pigeon Sat on a Branch Reflecting on Existence
+Comedy,222856,Unrated,2015-10-16 00:00:00,nan,136,Pyaar Ka Punchnama 2
+Romance,212508,Unrated,2015-12-04 00:00:00,nan,98,Fall in Love Like a Star
+Drama / Thriller,208588,R,2015-08-07 00:00:00,nan,104,Dark Places
+Action,206040,R,2015-10-30 00:00:00,nan,118,Heneral Luna
+Comedy,0,R,2015-05-29 00:00:00,nan,99,Gemma Bovery
+Foreign,0,R,2015-05-15 00:00:00,nan,135,The Connection
+Foreign,0,Unrated,2015-03-20 00:00:00,nan,108,Love and Lost
+Drama,187674,R,2015-09-25 00:00:00,nan,129,Stonewall
+Drama / Thriller,187112,PG-13,2015-05-08 00:00:00,nan,95,Maggie
+Foreign,185367,Unrated,2015-03-06 00:00:00,nan,,Detective K: Secret of the Lost Island
+Crime,185093,Unrated,2015-11-26 00:00:00,nan,108,The Priests
+Foreign,0,Unrated,2015-05-22 00:00:00,nan,93,The Farewell Party
+Comedy / Drama,171793,PG-13,2015-09-11 00:00:00,nan,111,A Brilliant Young Mind
+Drama,166775,Unrated,2015-09-09 00:00:00,nan,120,Time Out of Mind
+Foreign,165428,Unrated,2015-02-27 00:00:00,nan,118,Snow Girl and the Dark Crystal
+Foreign,164167,Unrated,2015-02-13 00:00:00,nan,122,C'Est Si Bon
+Romantic Comedy,163406,Unrated,2015-11-11 00:00:00,nan,101,The Last Women Standing
+Romance,162685,R,2015-04-03 00:00:00,nan,95,5 to 7
+Romantic Comedy,161820,Unrated,2015-02-27 00:00:00,nan,102,After The Ball
+Foreign,158549,Unrated,2015-01-09 00:00:00,nan,111,Human Capital
+Drama,155575,PG-13,2015-10-16 00:00:00,nan,94,Experimenter
+Drama,155271,PG-13,2015-04-10 00:00:00,nan,98,Desert Dancer
+Foreign,151530,R,2015-07-24 00:00:00,nan,118,Samba
+Foreign,150564,Unrated,2015-06-17 00:00:00,nan,132,The Tribe
+Romance,149761,Unrated,2015-07-10 00:00:00,nan,107,Forever Young
+Drama,146754,R,2015-09-18 00:00:00,nan,108,The New Girlfriend
+Foreign,144501,Unrated,2015-04-17 00:00:00,nan,86,Tangerines
+Drama,143101,PG-13,2015-06-19 00:00:00,nan,97,Manglehorn
+Documentary,137722,Unrated,2015-11-13 00:00:00,nan,114,Ingrid Bergman: In Her Own Words
+Foreign,136125,Unrated,2015-04-17 00:00:00,nan,115,Twenty
+Drama,135392,Unrated,2015-03-20 00:00:00,nan,100,La Sapienza
+Drama,130541,R,2015-09-25 00:00:00,nan,108,Mississippi Grind
+Drama,127381,Unrated,2015-11-18 00:00:00,nan,122,A Journey Through Time with Anthony
+Drama,126150,R,2015-07-10 00:00:00,nan,88,Boulevard
+Drama,121461,PG-13,2015-08-28 00:00:00,nan,98,Z for Zachariah
+Documentary,119388,Unrated,2015-07-10 00:00:00,nan,77,Do I Sound Gay?
+Animation,115840,Unrated,2015-09-11 00:00:00,nan,99,Love Live! The School Idol Movie
+Comedy,111996,R,2015-08-21 00:00:00,nan,93,She's Funny That Way
+Action,111071,Unrated,2015-08-28 00:00:00,nan,121,Memories of the Sword
+Documentary,109089,R,2015-07-17 00:00:00,nan,103,The Look of Silence
+Drama,108083,Unrated,2015-09-11 00:00:00,nan,127,The Beauty Inside
+Crime Thriller,105057,Unrated,2015-05-15 00:00:00,nan,102,The Chronicles of Evil
+Drama,103536,R,2015-05-15 00:00:00,nan,93,Every Secret Thing
+Crime Drama,101088,Unrated,2015-04-10 00:00:00,nan,103,Black Souls
+Documentary,96592,Unrated,2015-07-01 00:00:00,nan,90,A Poem Is a Naked Person
+Action Thriller,92696,Unrated,2015-10-02 00:00:00,nan,105,Saving Mr. Wu
+Musical,91930,Unrated,2015-03-13 00:00:00,nan,138,The Tales of Hoffmann
+Drama / Thriller,91218,Unrated,2015-08-26 00:00:00,nan,90,Queen of Earth
+Action Drama,88675,Unrated,2015-09-11 00:00:00,nan,145,Hero
+Documentary,0,PG,2015-05-22 00:00:00,nan,100,Sunshine Superman
+Drama,80734,R,2015-05-29 00:00:00,nan,94,Heaven Knows What
+Drama,79800,R,2015-10-23 00:00:00,nan,100,Nasty Baby
+Drama,73378,Unrated,2015-10-30 00:00:00,nan,107,The Wonders
+Sci-Fi Action,68372,R,2015-01-09 00:00:00,nan,97,Predestination
+Comedy,67046,R,2015-08-14 00:00:00,nan,85,People Places Things
+Foreign,65460,R,2015-06-19 00:00:00,nan,131,Eden
+Thriller,64521,Unrated,2015-01-23 00:00:00,nan,104,The Duke of Burgundy
+Musical,63675,Unrated,2015-09-18 00:00:00,nan,119,The Office
+Drama,61568,Unrated,2015-10-30 00:00:00,nan,99,Flowers
+Romantic Comedy,20059210,PG,1994-10-07 00:00:00,nan,109,Only You
+Foreign,60765,Unrated,2015-01-30 00:00:00,nan,112,Girlhood
+Foreign,60231,Unrated,2015-03-20 00:00:00,nan,109,Jauja
+Drama,58738,R,2015-10-23 00:00:00,nan,85,I Smile Back
+Comedy,54075,Unrated,2015-06-19 00:00:00,nan,106,The Ark of Mr. Chow
+Documentary,41149,Unrated,2015-02-19 00:00:00,nan,76,Love Thy Nature
+Crime,50162,Unrated,2015-10-23 00:00:00,nan,117,The Advocate: A Missing Body
+Action Thriller,50136,R,2015-11-13 00:00:00,8900000,93,Heist
+Drama,0,Unrated,2015-10-23 00:00:00,nan,99,Difret
+Comedy,46912,Unrated,2015-01-16 00:00:00,nan,88,Appropriate Behavior
+Drama,45895,R,2015-04-17 00:00:00,nan,91,Beyond the Reach
+Western,44903,R,2015-02-27 00:00:00,nan,90,The Salvation
+Foreign,1942423,PG-13,1991-12-27 00:00:00,nan,143,Madame Bovary
+Foreign,42937,Unrated,2015-06-05 00:00:00,nan,108,Charlie's Country
+Documentary,42166,Unrated,2015-10-23 00:00:00,nan,82,Pearl Button
+Drama,41297,Unrated,2015-02-18 00:00:00,nan,115,Queen and Country
+Action Thriller,40516,Unrated,2015-11-06 00:00:00,nan,115,The Phone
+Documentary,40119,Unrated,2015-11-06 00:00:00,nan,92,What Our Fathers Did: A Nazi Legacy
+Drama / Thriller,38263,R,2015-07-17 00:00:00,nan,94,Lila & Eve
+Comedy / Drama,37151,PG-13,2015-09-04 00:00:00,nan,96,Before We Go
+Foreign,37134,Unrated,2015-03-06 00:00:00,nan,90,The Mafia Only Kills in Summer
+Horror Thriller,36336,R,2015-10-09 00:00:00,nan,99,Knock Knock
+Drama,36190,NC-17,2015-07-31 00:00:00,nan,119,Kindergarten Teacher
+Documentary,36010,Unrated,2015-09-09 00:00:00,nan,85,Welcome to Leith
+Action / Crime,34866,Unrated,2015-07-31 00:00:00,nan,120,Wild City
+Comedy / Drama,34404,Unrated,2015-10-07 00:00:00,nan,130,The Forbidden Room
+Drama,32251,PG-13,2015-01-23 00:00:00,nan,86,Song One
+Foreign,32211,Unrated,2015-01-23 00:00:00,nan,118,Love Forecast
+Drama,31539,Unrated,2015-11-06 00:00:00,nan,729,"Out 1, noli me tangere"
+Documentary,30407,R,2015-06-19 00:00:00,nan,98,"3 1/2 Minutes, 10 Bullets"
+Crime Comedy,29494,R,2015-08-14 00:00:00,nan,87,Paulette
+Drama,28066,Unrated,2015-09-18 00:00:00,nan,138,The Cut
+Drama,27166,R,2015-09-25 00:00:00,nan,95,The Keeping Room
+Action Thriller,24572,PG-13,2015-06-26 00:00:00,nan,110,Big Game
+Action Thriller,24296,R,2015-04-10 00:00:00,nan,90,Kill Me Three Times
+Drama,23050,Unrated,2015-06-19 00:00:00,nan,102,"Hippocrates, Diary of a French Doctor"
+Foreign,22898,Unrated,2015-07-15 00:00:00,nan,116,Court
+Foreign,22480,Unrated,2015-04-10 00:00:00,nan,112,Salut D'Amour
+Documentary,21130,Unrated,2015-12-18 00:00:00,nan,100,Noma - My Perfect Storm
+Comedy,0,Unrated,2015-06-26 00:00:00,nan,95,The Little Death
+Foreign / Action,18022,Unrated,2015-02-06 00:00:00,nan,135,Gangnam 1970
+Drama,17663,Unrated,2015-11-20 00:00:00,nan,107,Mediterranea
+Drama / Thriller,17472,R,2015-07-10 00:00:00,nan,112,Strangerland
+Foreign,16831,Unrated,2015-02-27 00:00:00,nan,128,Eastern Boys
+Thriller,16775,R,2015-12-18 00:00:00,nan,83,Extraction
+Foreign,16738,PG-13,2015-03-13 00:00:00,nan,94,Eva
+Thriller,0,Unrated,2015-12-04 00:00:00,nan,119,The World of Kanako
+Horror Comedy,14947,R,2015-03-20 00:00:00,nan,76,Zombeavers
+Horror,13906,Unrated,2015-11-06 00:00:00,nan,97,The Hallow
+Foreign,13702,Unrated,2015-03-18 00:00:00,nan,96,Amour Fou
+Drama,0,Unrated,2015-12-04 00:00:00,nan,125,Arabian Nights: Volume 1 - The Restless One
+Foreign,11894,Unrated,2015-03-06 00:00:00,nan,81,Of Horses and Men
+Foreign,0,Unrated,2015-05-01 00:00:00,nan,95,Marie's Story
+Drama,10983,Unrated,2015-05-08 00:00:00,nan,93,1001 Grams
+Foreign,10654,Unrated,2015-03-06 00:00:00,nan,113,Empire of Lust
+Documentary,10172,Unrated,2015-03-27 00:00:00,nan,100,The Forecaster
+Comedy / Drama,9481,Unrated,2015-01-16 00:00:00,nan,92,Still Life
+Foreign,9045,Unrated,2015-03-04 00:00:00,nan,105,The Lesson
+Drama,8994,Unrated,2015-08-28 00:00:00,nan,102,An Eye for Beauty
+Music Drama,8886,R,2015-10-02 00:00:00,nan,102,Northern Soul
+Drama,8245,Unrated,2015-12-11 00:00:00,nan,88,The Girl in the Book
+Drama,8034,Unrated,2015-12-04 00:00:00,nan,118,Every Thing Will be Fine
+Documentary,8025,Unrated,2015-07-17 00:00:00,nan,135,Steak
+Documentary,7424,Unrated,2015-02-06 00:00:00,nan,77,On the Way to School
+Drama,6921,Unrated,2015-06-05 00:00:00,nan,109,Hungry Hearts
+Documentary,6843,Unrated,2015-11-13 00:00:00,nan,102,Steve McQueen: The Man & Le Mans
+Drama,0,Unrated,2015-12-11 00:00:00,nan,131,Arabian Nights: Volume 2 - The Desolate One
+Thriller,6334,Unrated,2015-07-17 00:00:00,nan,93,Alleluia
+Action / Adventure,6075,PG-13,2015-04-30 00:00:00,nan,96,Barely Lethal
+Comedy,5587,Unrated,2015-05-01 00:00:00,nan,103,Chic!
+Foreign,5336,Unrated,2015-05-01 00:00:00,nan,101,Far from Men
+Action,5240,R,2015-04-17 00:00:00,nan,107,The Dead Lands
+Comedy,4704,PG-13,2015-07-31 00:00:00,nan,94,Jenny's Wedding
+Adventure,4646,PG,2015-01-23 00:00:00,nan,100,Against the Sun
+Comedy / Drama,4631,R,2015-09-25 00:00:00,nan,100,Ashby
+Foreign,0,Unrated,2015-12-18 00:00:00,nan,125,Arabian Nights: Volume 3 - The Enchanted One
+Drama,4480,Unrated,2015-11-20 00:00:00,nan,88,The Summer of Sangaile
+Drama,4444,R,2015-05-29 00:00:00,nan,83,Club Life
+Animation,4351,Unrated,2015-06-12 00:00:00,nan,86,Back to the Jurassic
+Documentary,3643,Unrated,2015-11-06 00:00:00,nan,81,In the Basement
+Documentary,0,Unrated,2015-07-31 00:00:00,nan,90,That Sugar Film
+Drama,3181,Unrated,2015-10-09 00:00:00,nan,123,Xenia
+Documentary,3159,Unrated,2015-08-21 00:00:00,nan,83,The Iron Ministry
+Thriller,2167,Unrated,2015-12-18 00:00:00,nan,93,The Lady in the Car with Glasses and a Gun
+Drama,1505,Unrated,2015-07-10 00:00:00,nan,110,Stations of the Cross
+Action,1242,R,2015-05-08 00:00:00,nan,95,Skin Trade
+Comedy,889,Unrated,2015-12-11 00:00:00,nan,98,Thanks to My Friends
+Foreign / Horror,837,R,2015-01-02 00:00:00,nan,96,REC 4: Apocalypse
+Foreign,724,Unrated,2015-01-09 00:00:00,nan,93,It's All So Quiet
+Foreign,697,Unrated,2015-03-13 00:00:00,nan,102,Tough Being Loved By Jerks
+Drama,315,Unrated,2015-05-29 00:00:00,nan,90,The Chambermaid
+Sci-Fi Action,245439076,PG-13,2014-06-27 00:00:00,210000000,165,Transformers: Age of Extinction
+Fantasy,255119788,PG-13,2014-12-17 00:00:00,nan,144,The Hobbit: The Battle of the Five Armies
+Action / Adventure,333176600,PG-13,2014-08-01 00:00:00,170000000,121,Guardians of the Galaxy
+Fantasy,241410378,PG,2014-05-30 00:00:00,180000000,97,Maleficent
+Action / Adventure,337135885,PG-13,2014-11-21 00:00:00,125000000,123,The Hunger Games: Mockingjay - Part 1
+Action / Adventure,233921534,PG-13,2014-05-23 00:00:00,200000000,131,X-Men: Days of Future Past
+Action / Adventure,259766572,PG-13,2014-04-04 00:00:00,170000000,136,Captain America: The Winter Soldier
+Sci-Fi Action,208545589,PG-13,2014-07-11 00:00:00,170000000,130,Dawn of the Planet of the Apes
+Action / Adventure,202853933,PG-13,2014-05-02 00:00:00,nan,142,The Amazing Spider-Man 2
+Sci-Fi Adventure,188020017,PG-13,2014-11-05 00:00:00,165000000,169,Interstellar
+Animation,222527828,PG,2014-11-07 00:00:00,165000000,108,Big Hero 6
+Animation,177002924,PG,2014-06-13 00:00:00,145000000,105,How to Train Your Dragon 2
+Drama,350126372,R,2014-12-25 00:00:00,58800000,132,American Sniper
+Sci-Fi Action,200676069,PG-13,2014-05-16 00:00:00,160000000,123,Godzilla
+Animation,131538435,G,2014-04-11 00:00:00,103000000,101,Rio 2
+Action / Adventure,191204754,PG-13,2014-08-08 00:00:00,125000000,101,Teenage Mutant Ninja Turtles
+Animation,257760692,PG,2014-02-07 00:00:00,60000000,100,The LEGO Movie
+Sci-Fi Action,126663600,R,2014-07-25 00:00:00,40000000,90,Lucy
+Animation,83350911,PG,2014-11-26 00:00:00,132000000,92,Penguins of Madagascar
+Sci-Fi Action,100206256,PG-13,2014-06-06 00:00:00,178000000,113,Edge of Tomorrow
+Thriller,167767189,R,2014-10-03 00:00:00,61000000,145,Gone Girl
+Family Adventure,113746621,PG,2014-12-19 00:00:00,127000000,97,Night at the Museum: Secret of the Tomb
+Drama,101200044,PG-13,2014-03-28 00:00:00,125000000,138,Noah
+Sci-Fi Thriller,102427862,PG-13,2014-09-19 00:00:00,34000000,113,The Maze Runner
+Period Action,106580051,R,2014-03-07 00:00:00,110000000,102,300: Rise of An Empire
+Action Comedy,191719337,R,2014-06-13 00:00:00,50000000,112,22 Jump Street
+Drama,124872350,PG-13,2014-06-06 00:00:00,12000000,125,The Fault in our Stars
+Action / Adventure,150947895,PG-13,2014-03-21 00:00:00,85000000,143,Divergent
+Animation,111506430,PG,2014-03-07 00:00:00,145000000,90,Mr. Peabody & Sherman
+Comedy,150157400,R,2014-05-09 00:00:00,18000000,96,Neighbors
+Drama,65014513,PG-13,2014-12-12 00:00:00,140000000,150,Exodus: Gods and Kings
+Horror,84273813,R,2014-10-03 00:00:00,6500000,95,Annabelle
+Action / Adventure,72688614,PG-13,2014-07-25 00:00:00,100000000,98,Hercules
+Sci-Fi Action,58607007,PG-13,2014-02-12 00:00:00,100000000,108,RoboCop
+Drama,91125683,PG-13,2014-11-28 00:00:00,nan,114,The Imitation Game
+Thriller,92168600,PG-13,2014-02-28 00:00:00,50000000,110,Non-Stop
+Action Horror,56280355,PG-13,2014-10-10 00:00:00,70000000,92,Dracula Untold
+Musical,128002372,PG,2014-12-25 00:00:00,50000000,124,Into the Woods
+War,85817906,R,2014-10-17 00:00:00,68000000,134,Fury
+Action,39322544,PG-13,2014-08-15 00:00:00,nan,103,The Expendables 3
+Action,43577636,PG-13,2014-03-14 00:00:00,66000000,130,Need for Speed
+Comedy,83911193,PG-13,2014-04-25 00:00:00,40000000,109,The Other Woman
+Thriller,101530738,R,2014-09-26 00:00:00,55000000,128,The Equalizer
+Comedy,59301324,R,2014-03-07 00:00:00,25000000,100,The Grand Budapest Hotel
+Comedy,86208010,PG-13,2014-11-14 00:00:00,40000000,110,Dumb and Dumber To
+War Drama,115637895,PG-13,2014-12-25 00:00:00,65000000,137,Unbroken
+Thriller,47602194,PG-13,2014-08-08 00:00:00,50000000,89,Into The Storm
+Action Drama,78031620,PG-13,2014-02-07 00:00:00,70000000,110,The Monuments Men
+Comedy,134938200,PG-13,2014-01-17 00:00:00,25000000,100,Ride Along
+Animation,59165787,PG,2014-07-18 00:00:00,50000000,83,Planes: Fire & Rescue
+Action Comedy,82390774,R,2014-08-13 00:00:00,17000000,104,Let's Be Cops
+Action Thriller,50577412,PG-13,2014-01-17 00:00:00,60000000,100,Jack Ryan: Shadow Recruit
+Musical,85911262,PG,2014-12-19 00:00:00,65000000,118,Annie
+Romantic Comedy,46294610,PG-13,2014-05-23 00:00:00,40000000,117,Blended
+Comedy,38543473,R,2014-07-18 00:00:00,40000000,94,Sex Tape
+Drama,35893537,PG-13,2014-11-07 00:00:00,15000000,123,The Theory of Everything
+Animation,64251541,PG,2014-01-17 00:00:00,42000000,86,The Nut Job
+Animation,5209580,PG-13,2014-02-21 00:00:00,nan,126,The Wind Rises
+Action Drama,23219748,PG-13,2014-02-21 00:00:00,100000000,102,Pompeii
+Foreign,2589811,Unrated,2014-08-08 00:00:00,nan,127,The Admiral: Roaring Currents
+Thriller,71962800,R,2014-07-18 00:00:00,9000000,103,The Purge: Anarchy
+Animation,50837305,PG,2014-09-26 00:00:00,60000000,97,The Boxtrolls
+Comedy,54445357,R,2014-11-26 00:00:00,42000000,108,Horrible Bosses 2
+Horror,50856010,PG-13,2014-10-24 00:00:00,5000000,89,Ouija
+Comedy / Drama,42340598,R,2014-10-17 00:00:00,18000000,119,Birdman
+Sci-Fi,23022309,PG-13,2014-04-18 00:00:00,100000000,120,Transcendence
+Family,66954149,PG,2014-10-10 00:00:00,28000000,81,"Alexander and the Terrible, Horrible, No Good, Very Bad Day"
+Drama,91443253,PG,2014-04-16 00:00:00,12000000,100,Heaven is for Real
+Comedy,84525432,R,2014-07-02 00:00:00,20000000,96,Tammy
+Foreign,10616104,Unrated,2014-12-19 00:00:00,nan,153,P.K.
+Animation,50151543,PG,2014-10-17 00:00:00,50000000,95,The Book of Life
+Horror,32462372,R,2014-01-03 00:00:00,5000000,84,Paranormal Activity: The Marked Ones
+Drama,54240821,PG,2014-08-08 00:00:00,22000000,122,The Hundred-Foot Journey
+Horror,30577122,R,2014-07-02 00:00:00,30000000,118,Deliver Us From Evil
+Western Comedy,43139300,R,2014-05-30 00:00:00,40000000,116,A Million Ways to Die in the West
+Sci-Fi Action,4563650,R,2014-06-27 00:00:00,nan,126,Snowpiercer
+Music Drama,14904384,PG-13,2014-08-08 00:00:00,nan,112,Step Up All In
+Action,43037835,R,2014-10-24 00:00:00,20000000,96,John Wick
+Drama,47119388,R,2014-10-10 00:00:00,50000000,141,The Judge
+Family Comedy,51183113,PG,2014-03-21 00:00:00,50000000,112,Muppets Most Wanted
+Drama,50474843,PG-13,2014-08-22 00:00:00,11000000,106,If I Stay
+Action Horror,19075290,PG-13,2014-01-24 00:00:00,65000000,92,"I, Frankenstein"
+Foreign,557236,Unrated,2014-02-07 00:00:00,nan,127,The Attorney
+Comedy,65182182,PG-13,2014-06-20 00:00:00,24000000,106,Think Like a Man Too
+Action,20396829,PG-13,2014-04-25 00:00:00,28000000,90,Brick Mansions
+Foreign,1013945,R,2014-02-28 00:00:00,nan,131,Stalingrad
+Drama,59700064,PG-13,2014-02-28 00:00:00,nan,138,Son of God
+Musical,47047013,R,2014-06-20 00:00:00,40000000,134,Jersey Boys
+Fantasy Drama,45090374,PG-13,2014-08-15 00:00:00,25000000,91,The Giver
+Drama,52076908,PG-13,2014-12-25 00:00:00,20000000,127,Selma
+Animation,4091,Unrated,2014-09-05 00:00:00,nan,85,Thunder and the House of Magic!
+Comedy,16170632,R,2014-06-27 00:00:00,nan,104,Begin Again
+Drama,60755732,PG,2014-03-21 00:00:00,2000000,113,God's Not Dead
+Action / Adventure,18848538,PG-13,2014-01-10 00:00:00,70000000,99,The Legend of Hercules
+Animation,174945,Unrated,2014-01-10 00:00:00,nan,106,Evangelion: 3.0 You Can
+Family,42024533,PG,2014-09-12 00:00:00,36000000,107,Dolphin Tale 2
+Comedy,44137712,PG-13,2014-10-10 00:00:00,nan,103,St. Vincent
+Thriller,52543632,PG-13,2014-09-12 00:00:00,13200000,84,No Good Deed
+Drama,26307600,R,2014-09-19 00:00:00,28000000,114,A Walk Among the Tombstones
+Action Thriller,30697999,PG-13,2014-02-21 00:00:00,28000000,117,3 Days to Kill
+Drama,37880356,R,2014-12-03 00:00:00,nan,115,Wild
+Comedy / Drama,10539326,PG-13,2014-07-25 00:00:00,nan,98,Magic in the Moonlight
+Animation,2553002,Unrated,2014-08-05 00:00:00,nan,85,Dragon Ball Z: Battle of Gods
+Romantic Comedy,48637684,R,2014-02-14 00:00:00,12500000,100,About Last Night
+Drama,13092000,R,2014-10-10 00:00:00,3300000,106,Whiplash
+Comedy,31424003,R,2014-05-09 00:00:00,nan,115,Chef
+Adventure,38934842,PG,2014-07-02 00:00:00,13000000,91,Earth to Echo
+Drama,25352281,R,2014-07-11 00:00:00,4000000,166,Boyhood
+Horror,27695246,R,2014-04-11 00:00:00,5000000,105,Oculus
+Foreign / Action,2546172,Unrated,2014-10-02 00:00:00,nan,153,Bang Bang
+Thriller,21321100,R,2014-08-29 00:00:00,nan,93,As Above/So Below
+Comedy,34296320,R,2014-09-19 00:00:00,19800000,103,This is Where I Leave You
+Romantic Comedy,26068955,R,2014-01-31 00:00:00,8000000,94,That Awkward Moment
+Crime,13757804,R,2014-08-22 00:00:00,nan,102,Frank Miller's Sin City: A Dame to Kill For
+Crime Drama,33680992,R,2014-12-25 00:00:00,25000000,111,The Gambler
+Sports Drama,36457627,PG,2014-05-16 00:00:00,25000000,124,Million Dollar Arm
+Crime Drama,32381217,R,2014-10-31 00:00:00,8500000,117,Nightcrawler
+Horror,15821461,R,2014-01-17 00:00:00,7000000,89,Devil's Due
+Thriller,17237855,R,2014-07-25 00:00:00,nan,121,A Most Wanted Man
+Romance,26766213,PG-13,2014-10-17 00:00:00,26000000,117,The Best of Me
+Romance,23438250,PG-13,2014-02-14 00:00:00,20000000,103,Endless Love
+Music Drama,30703100,PG-13,2014-08-01 00:00:00,nan,138,Get On Up
+Action,25018119,R,2014-08-27 00:00:00,nan,108,The November Man
+Foreign,415775,Unrated,2014-09-05 00:00:00,nan,130,The Pirates
+Fantasy,12600231,PG-13,2014-02-14 00:00:00,60000000,129,Winter's Tale
+Sports Drama,30127963,PG,2014-08-22 00:00:00,15000000,115,When the Game Stands Tall
+Sports Drama,28842237,PG-13,2014-04-11 00:00:00,nan,110,Draft Day
+Drama,14482031,PG-13,2014-12-25 00:00:00,nan,106,Big Eyes
+Foreign,136707,Unrated,2014-07-25 00:00:00,nan,118,The Divine Move
+Comedy,25317379,R,2014-12-12 00:00:00,nan,101,Top Five
+Foreign / Action,7679,R,2014-09-19 00:00:00,nan,105,Iceman
+Comedy / Drama,15160801,PG-13,2014-07-25 00:00:00,nan,94,And So It Goes
+Foreign,9572,R,2014-04-04 00:00:00,nan,96,On the Other Side of the Tracks
+Foreign,10854,R,2014-04-04 00:00:00,nan,109,The Players
+Animation,703232,PG,2014-10-17 00:00:00,nan,137,The Tale of The Princess Kaguya
+Horror Comedy,17329486,R,2014-04-18 00:00:00,4000000,87,A Haunted House 2
+Drama,4438438,R,2014-04-11 00:00:00,nan,107,The Railway Man
+Foreign,218693,Unrated,2014-01-10 00:00:00,nan,137,The Suspect
+Documentary,17780194,G,2014-04-18 00:00:00,nan,78,Bears
+Foreign,723593,R,2014-06-25 00:00:00,nan,105,Yves Saint Laurent
+Drama,13371528,PG-13,2014-01-31 00:00:00,18000000,111,Labor Day
+Foreign,334616,Unrated,2014-01-17 00:00:00,nan,121,"Like Father, Like Son"
+Thriller,14019924,PG-13,2014-10-03 00:00:00,16000000,105,Left Behind
+Animation,8462027,PG,2014-05-09 00:00:00,70000000,88,Legends of Oz: Dorothy's Return
+Crime Drama,10724389,R,2014-09-12 00:00:00,12600000,106,The Drop
+Horror,8509867,PG-13,2014-04-25 00:00:00,nan,98,The Quiet Ones
+Action Thriller,10508518,R,2014-03-28 00:00:00,nan,109,Sabotage
+Drama,17390770,R,2014-10-10 00:00:00,nan,105,Addicted
+Animation,43171,Unrated,2014-08-29 00:00:00,nan,109,Road to Ninja - Naruto the Movie
+Comedy / Drama,3600006,R,2014-08-01 00:00:00,nan,100,Calvary
+Horror,2756333,R,2014-12-05 00:00:00,nan,89,The Pyramid
+Comedy / Drama,15973881,PG-13,2014-03-14 00:00:00,nan,111,Tyler Perry's The Single Moms Club
+Foreign,3878,R,2014-01-03 00:00:00,nan,110,Beyond Outrage
+Fantasy,7791979,PG-13,2014-02-07 00:00:00,nan,104,Vampire Academy
+Thriller,3242457,R,2014-10-31 00:00:00,nan,92,Before I Go To Sleep
+Crime,8110975,R,2014-12-12 00:00:00,nan,148,Inherent Vice
+Thriller,507463,PG-13,2014-09-26 00:00:00,nan,98,The Two Faces of January
+Comedy,3769873,R,2014-04-18 00:00:00,nan,90,Fading Gigolo
+IMAX,0,G,2014-04-04 00:00:00,nan,39,Island of Lemurs: Madagascar
+Drama,12096300,R,2014-11-14 00:00:00,nan,134,Foxcatcher
+Drama / Thriller,5749134,R,2014-12-31 00:00:00,20000000,125,A Most Violent Year
+Comedy,6105175,R,2014-12-25 00:00:00,nan,112,The Interview
+Musical,101196,PG-13,2014-10-10 00:00:00,nan,100,One Chance
+Foreign,59874,Unrated,2014-04-23 00:00:00,nan,104,Bicycling with Moliere
+Drama,10726630,PG,2014-05-02 00:00:00,nan,105,Belle
+Foreign,59478,Unrated,2014-09-05 00:00:00,nan,105,Wetlands
+Comedy,10429707,PG,2014-05-09 00:00:00,5000000,98,Moms' Night Out
+Horror,964413,Unrated,2014-11-28 00:00:00,nan,92,The Babadook
+Drama,785896,Unrated,2014-03-21 00:00:00,nan,117,Nymphomaniac: Volume I
+Animation,8201,PG,2014-11-11 00:00:00,nan,94,Gladiators of Rome
+Foreign,303187,Unrated,2014-07-18 00:00:00,nan,94,Mood Indigo
+Comedy,153426,R,2014-04-04 00:00:00,nan,90,Alan Partridge: The Movie
+Drama,373605,Unrated,2014-06-20 00:00:00,nan,96,Venus in Fur
+Crime,34411,R,2014-05-30 00:00:00,nan,97,Filth
+Romantic Comedy,3493000,PG-13,2014-08-08 00:00:00,nan,102,What If
+Foreign,615691,Unrated,2014-09-12 00:00:00,nan,102,Finding Fanny
+Comedy / Drama,1446634,R,2014-09-26 00:00:00,nan,120,Pride
+Foreign,338523,R,2014-05-16 00:00:00,nan,117,Chinese Puzzle
+Comedy / Drama,13347,R,2014-07-11 00:00:00,nan,96,A Long Way Down
+Horror,0,PG-13,2014-11-07 00:00:00,nan,90,Jessabelle
+Foreign,1436243,PG-13,2014-12-24 00:00:00,nan,95,"Two Days, One Night"
+Animation,71712,Unrated,2014-07-23 00:00:00,nan,120,A Letter to Momo
+Drama,6382924,PG,2014-08-29 00:00:00,nan,106,Cantinflas
+Foreign,342667,PG-13,2014-06-20 00:00:00,nan,84,Le Chef
+Foreign / Horror,870063,R,2014-09-26 00:00:00,nan,,Mas Negro Que La Noche
+Foreign,3021,Unrated,2014-03-21 00:00:00,nan,104,French Gigolo
+Comedy,2880537,Unrated,2014-08-15 00:00:00,nan,,The Trip to Italy
+Drama,2025328,R,2014-05-16 00:00:00,nan,120,The Immigrant
+Comedy / Drama,3591299,R,2014-07-18 00:00:00,nan,114,Wish I Was Here
+Drama,3958500,R,2014-12-19 00:00:00,nan,150,Mr. Turner
+Sci-Fi,2614251,R,2014-04-04 00:00:00,13300000,107,Under the Skin
+Drama,5284309,R,2014-09-12 00:00:00,nan,93,The Skeleton Twins
+Foreign,12027,Unrated,2014-03-21 00:00:00,nan,113,The French Minister
+Animation,262075,PG,2014-02-28 00:00:00,nan,80,Ernest & Celestine
+Drama,510007,PG-13,2014-09-19 00:00:00,nan,102,Tracks
+Comedy,266588,PG-13,2014-05-23 00:00:00,nan,95,The Love Punch
+Comedy / Drama,4404154,R,2014-10-17 00:00:00,nan,100,Dear White People
+Foreign,4235151,PG,2014-02-28 00:00:00,nan,104,The Lunchbox
+Comedy / Drama,4013786,PG-13,2014-09-10 00:00:00,nan,107,My Old Lady
+Foreign,230880,Unrated,2014-10-15 00:00:00,nan,85,Diplomacy
+Fantasy Drama,173948,R,2014-10-31 00:00:00,nan,120,Horns
+Foreign,3827060,PG-13,2014-05-02 00:00:00,nan,80,Ida
+Foreign / Action,0,R,2014-08-22 00:00:00,nan,116,14 Blades
+Foreign,1369,PG-13,2014-08-22 00:00:00,nan,96,Ragnarok
+Comedy,3322127,PG-13,2014-03-14 00:00:00,6000000,107,Veronica Mars
+Foreign,3494070,R,2014-09-19 00:00:00,nan,,Mommy
+Animation,0,PG,2014-09-24 00:00:00,nan,89,Jack and the Cuckoo-Clock Heart
+Comedy,3430018,PG-13,2014-05-30 00:00:00,nan,113,The Grand Seduction
+Thriller,1008726,R,2014-03-14 00:00:00,nan,90,Enemy
+Comedy / Drama,2171257,PG-13,2014-05-23 00:00:00,nan,101,Words and Pictures
+Foreign / Action,2463,R,2014-05-02 00:00:00,nan,104,The Protector 2
+Drama,1114423,R,2014-06-13 00:00:00,12000000,102,The Rover
+Foreign,8528,Unrated,2014-09-12 00:00:00,nan,92,The Mystery of Happiness
+Drama,3128941,R,2014-11-14 00:00:00,nan,103,Rosewater
+Comedy,3123963,R,2014-06-06 00:00:00,nan,83,Obvious Child
+Foreign,418392,PG-13,2014-04-25 00:00:00,nan,93,The German Doctor
+Documentary,2800870,R,2014-10-24 00:00:00,nan,114,Citizenfour
+Foreign,150275,Unrated,2014-06-13 00:00:00,nan,83,A Coffee in Berlin
+Drama,2722209,PG-13,2014-10-03 00:00:00,nan,110,The Good Lie
+Foreign / Action,2627209,R,2014-03-28 00:00:00,nan,148,The Raid 2
+Foreign,11600,Unrated,2014-06-27 00:00:00,nan,108,Living is Easy with Eyes Closed
+Foreign,306917,Unrated,2014-07-18 00:00:00,nan,85,A Five Star Life
+Foreign,2472695,Unrated,2014-07-25 00:00:00,nan,150,Kick
+Thriller,2450846,R,2014-10-10 00:00:00,nan,112,Kill the Messenger
+Western,2429989,R,2014-11-14 00:00:00,nan,122,The Homesman
+Crime Drama,42472,R,2014-03-21 00:00:00,nan,144,Blood Ties
+Thriller,332890,R,2014-09-17 00:00:00,nan,99,The Guest
+Foreign,11616,Unrated,2014-10-24 00:00:00,nan,108,Life of Riley
+Foreign,2300121,Unrated,2014-12-25 00:00:00,nan,126,Ode to My Father
+Drama,2262223,R,2014-08-22 00:00:00,nan,98,Love is Strange
+Foreign,9781,Unrated,2014-07-04 00:00:00,nan,93,Marius
+Drama,705908,R,2014-10-01 00:00:00,nan,,"Men, Women & Children"
+Foreign,2238174,Unrated,2014-04-18 00:00:00,nan,135,2 States
+Drama,327167,Unrated,2014-04-04 00:00:00,nan,124,Nymphomaniac: Volume II
+Romance,2225098,R,2014-03-14 00:00:00,nan,93,Le Week-End
+Foreign,2107925,R,2014-01-24 00:00:00,nan,110,Gloria
+Documentary,279558,Unrated,2014-09-17 00:00:00,nan,97,"20,000 Days on Earth"
+Drama,1879534,R,2014-04-11 00:00:00,7000000,123,Only Lovers Left Alive
+Horror,1826705,R,2014-09-19 00:00:00,nan,102,Tusk
+Documentary,1539680,PG,2014-10-10 00:00:00,nan,87,Awake: The Life of Yogananda
+Documentary,1538899,PG,2014-05-09 00:00:00,nan,92,Fed Up
+Documentary,1514782,Unrated,2014-03-28 00:00:00,nan,84,Finding Vivian Maier
+Drama,125106,PG-13,2014-04-18 00:00:00,nan,110,Make Your Move
+Foreign,0,Unrated,2014-04-25 00:00:00,nan,94,Bright Days Ahead
+Thriller,1375769,R,2014-04-25 00:00:00,nan,85,Locke
+Foreign,1359497,R,2014-10-24 00:00:00,nan,118,Force Majeure
+Animation,1519,Unrated,2014-06-27 00:00:00,nan,88,Postman Pat: The Movie
+Foreign,75531,Unrated,2014-03-21 00:00:00,nan,105,Just a Sigh
+Foreign,1264515,Unrated,2014-01-24 00:00:00,nan,135,Jai Ho
+Foreign,32286,Unrated,2014-05-02 00:00:00,nan,110,For a Woman
+Foreign / Action,1232018,Unrated,2014-08-15 00:00:00,nan,142,Singham Returns
+Foreign,0,Unrated,2014-11-07 00:00:00,nan,129,Why Don't You Play in Hell
+Horror Thriller,1169603,PG-13,2014-09-05 00:00:00,nan,87,The Remaining
+Foreign,101451,Unrated,2014-11-07 00:00:00,nan,95,The Way He Looks
+Foreign,56773,Unrated,2014-04-04 00:00:00,nan,99,Ilo Ilo
+Drama,1124445,R,2014-09-19 00:00:00,nan,114,Hector And The Search For Happiness
+Foreign,1092800,R,2014-12-25 00:00:00,nan,140,Leviathan
+Thriller,1075178,Unrated,2014-09-05 00:00:00,nan,112,The Captive
+Romantic Comedy,1066981,R,2014-10-24 00:00:00,nan,100,Laggies
+Foreign,806,Unrated,2014-06-27 00:00:00,nan,90,Jackpot
+Romantic Comedy,0,Unrated,2014-05-23 00:00:00,nan,107,Lila Lila
+Foreign,1048143,Unrated,2014-10-02 00:00:00,nan,160,Haider
+Romance,1021398,R,2014-06-20 00:00:00,nan,130,Third Person
+Foreign,57474,Unrated,2014-06-06 00:00:00,nan,113,Borgman
+Drama,587774,R,2014-09-12 00:00:00,nan,122,The Disappearance of Eleanor Rigby
+Foreign,921277,Unrated,2014-02-28 00:00:00,nan,153,Shaadi Ke Side Effects
+Animation,857522,PG,2014-12-19 00:00:00,nan,93,Song of the Sea
+Foreign,817192,Unrated,2014-05-23 00:00:00,nan,110,Kochadaiiyaan
+Foreign,3313,Unrated,2014-05-30 00:00:00,nan,122,Age of Uprising: The Legend of Michael Kohlhaas
+Foreign,777896,Unrated,2014-10-03 00:00:00,nan,116,Breakup Buddies
+Sci-Fi,257706,R,2014-09-19 00:00:00,nan,107,The Zero Theorem
+Drama,767732,R,2014-05-09 00:00:00,nan,98,Palo Alto
+Foreign / Action,730530,Unrated,2014-06-27 00:00:00,nan,129,Ek Villain
+Foreign,710508,Unrated,2014-09-19 00:00:00,nan,130,Khoobsurat
+Foreign / Action,706893,Unrated,2014-06-06 00:00:00,nan,161,Holiday
+Foreign,646035,Unrated,2014-02-07 00:00:00,nan,140,Hasee Toh Phasee
+Comedy / Drama,645186,R,2014-08-15 00:00:00,nan,95,Frank
+Foreign,621300,Unrated,2014-09-05 00:00:00,nan,122,Mary Kom
+Sci-Fi Thriller,600896,PG-13,2014-06-13 00:00:00,nan,95,The Signal
+Foreign,569280,Unrated,2014-12-12 00:00:00,nan,,Back in Time
+Foreign,529136,Unrated,2014-02-21 00:00:00,nan,132,Highway
+Crime,523511,R,2014-04-02 00:00:00,nan,93,Dom Hemingway
+Romantic Comedy,513447,R,2014-08-22 00:00:00,nan,91,The One I Love
+Drama,7791,Unrated,2014-06-27 00:00:00,nan,114,Archipelago
+Foreign,491910,Unrated,2014-11-21 00:00:00,nan,99,A Girl Walks Home Alone at Night
+Sci-Fi,137815,Unrated,2014-08-29 00:00:00,nan,117,The Congress
+Romantic Thriller,444179,R,2014-02-21 00:00:00,nan,,In Secret
+Documentary,127754,Unrated,2014-09-26 00:00:00,nan,97,Bjork - Biophilia Live
+Foreign,430760,Unrated,2014-09-05 00:00:00,nan,106,But Always
+Foreign,428318,Unrated,2014-02-14 00:00:00,nan,122,Beijing Love Story
+Foreign,390099,Unrated,2014-10-24 00:00:00,nan,70,Goodbye to Language
+Foreign,380011,Unrated,2014-07-11 00:00:00,nan,133,Humpty Sharma Ki Dulhania
+Foreign,375495,Unrated,2014-11-26 00:00:00,nan,,Women Who Flirt
+Drama,373375,R,2014-04-11 00:00:00,nan,117,Joe
+Foreign,356000,Unrated,2014-02-21 00:00:00,nan,96,Omar
+Drama,350006,PG-13,2014-03-07 00:00:00,nan,92,The Face of Love
+Music Drama,340911,R,2014-09-26 00:00:00,nan,118,Jimi: All Is By My Side
+Drama,336472,R,2014-07-18 00:00:00,nan,113,I Origins
+Foreign,62506,Unrated,2014-06-20 00:00:00,nan,126,The Last Sentence
+Foreign,317324,Unrated,2014-03-14 00:00:00,nan,116,On My Way
+Foreign,313770,Unrated,2014-11-21 00:00:00,nan,,Happy Ending
+Documentary,310116,Unrated,2014-09-12 00:00:00,nan,94,I Am Eleven
+Foreign / Action,38106,Unrated,2014-02-07 00:00:00,nan,100,7 Boxes
+Foreign,293680,Unrated,2014-05-23 00:00:00,nan,126,The Dance of Reality
+Romantic Comedy,285863,PG-13,2014-11-07 00:00:00,nan,97,Elsa & Fred
+Foreign,274579,Unrated,2014-04-04 00:00:00,nan,100,Main Tera Hero
+Thriller,271755,R,2014-05-30 00:00:00,nan,112,Night Moves
+Foreign,271734,Unrated,2014-12-24 00:00:00,nan,135,Love on the Cloud
+Comedy,265452,R,2014-08-29 00:00:00,nan,94,Life of Crime
+Documentary,258237,PG-13,2014-09-12 00:00:00,nan,95,The Green Prince
+Foreign,256872,Unrated,2014-12-05 00:00:00,nan,144,Action Jackson
+Foreign,254666,R,2014-10-03 00:00:00,nan,75,The Blue Room
+Foreign,251555,Unrated,2014-09-19 00:00:00,nan,147,Tazza: The Hidden Card
+Documentary,235659,PG,2014-08-08 00:00:00,nan,91,James Cameron's Deepsea Challenge 3D
+Foreign,0,R,2014-04-18 00:00:00,nan,104,Gabrielle
+Foreign,208959,Unrated,2014-06-27 00:00:00,nan,114,The Breakup Guru
+Foreign,201700,Unrated,2014-03-07 00:00:00,nan,99,Bethlehem
+Comedy / Drama,200406,R,2014-05-09 00:00:00,nan,93,The Double
+Drama,200126,Unrated,2014-10-17 00:00:00,nan,108,Listen Up Philip
+Foreign,180590,Unrated,2014-05-30 00:00:00,nan,102,We Are The Best!
+Foreign / Action,172343,Unrated,2014-04-18 00:00:00,nan,112,That Demon Within
+Drama,169976,R,2014-05-09 00:00:00,nan,87,God's Pocket
+Drama,4529,Unrated,2014-06-27 00:00:00,nan,100,Unrelated
+Comedy / Drama,22004,R,2014-08-22 00:00:00,nan,99,May in the Summer
+Foreign,133663,Unrated,2014-01-10 00:00:00,nan,96,The Jewish Cardinal
+Foreign,116044,Unrated,2014-12-03 00:00:00,nan,100,Zero Motivation
+Comedy / Drama,3450,R,2014-09-19 00:00:00,nan,83,Life's a Breeze
+Foreign,102931,Unrated,2014-10-17 00:00:00,nan,177,The Golden Era
+Drama,102757,Unrated,2014-09-05 00:00:00,nan,111,God Help the Girl
+Crime Drama,100035,R,2014-01-03 00:00:00,nan,131,The Best Offer
+Foreign,97170,Unrated,2014-02-19 00:00:00,nan,112,Child's Pose
+Comedy,92384,R,2014-04-11 00:00:00,nan,98,Cuban Fury
+Romantic Comedy,91401,R,2014-02-14 00:00:00,nan,101,Girl on a Bicycle
+Drama,89661,R,2014-03-28 00:00:00,nan,98,Breathe In
+Comedy,88273,R,2014-08-15 00:00:00,nan,91,Life After Beth
+Documentary,87879,Unrated,2014-09-26 00:00:00,nan,72,Advanced Style
+Comedy,75143,Unrated,2014-03-14 00:00:00,nan,91,Better Living Through Chemistry
+Documentary,67421,R,2014-04-25 00:00:00,nan,89,For No Good Reason
+Foreign,66559,R,2014-08-29 00:00:00,nan,109,The Notebook
+Foreign,63649,Unrated,2014-05-23 00:00:00,nan,146,Heropanti
+Foreign,63063,Unrated,2014-06-13 00:00:00,nan,116,No Tears for the Dead
+Foreign,61067,Unrated,2014-04-25 00:00:00,nan,93,Young and Beautiful
+Foreign,60537,Unrated,2014-06-27 00:00:00,nan,97,Siddharth
+Romantic Comedy,59209,R,2014-05-02 00:00:00,nan,95,Walk of Shame
+Foreign,58657,R,2014-08-29 00:00:00,nan,111,The Conformist
+Comedy / Drama,58293,R,2014-10-17 00:00:00,nan,105,Rudderless
+Foreign,56823,Unrated,2014-01-10 00:00:00,nan,96,The Rocket
+Drama,54915,Unrated,2014-08-27 00:00:00,nan,105,Starred Up
+Drama,54529,R,2014-05-16 00:00:00,nan,113,Half of a Yellow Sun
+Drama,54030,R,2014-04-11 00:00:00,nan,102,Hateship Loveship
+Foreign,53895,Unrated,2014-10-24 00:00:00,nan,117,"1,000 Times Good Night"
+Drama,48390,R,2014-05-02 00:00:00,nan,91,Decoding Annie Parker
+Foreign,11263,Unrated,2014-06-13 00:00:00,nan,105,Policeman
+Drama,33821,R,2014-10-24 00:00:00,nan,91,White Bird in a Blizzard
+Animation,32188,G,2014-10-03 00:00:00,nan,77,The Hero of Color City
+Romance,32111,Unrated,2014-09-12 00:00:00,nan,128,Bird People
+Foreign,28098,Unrated,2014-07-09 00:00:00,nan,106,Closed Curtain
+Drama,27054,Unrated,2014-09-26 00:00:00,nan,91,Lilting
+Comedy,25368,R,2014-02-14 00:00:00,nan,93,Adult World
+Foreign,23268,Unrated,2014-12-19 00:00:00,nan,114,A Tale of Winter
+Documentary,21327,Unrated,2014-10-01 00:00:00,nan,94,The Decent One
+Action Drama,19480,R,2014-10-17 00:00:00,nan,,Guardian Angel
+Comedy,0,PG-13,2014-04-18 00:00:00,nan,85,Tasting Menu
+Romantic Comedy,18612,R,2014-09-26 00:00:00,nan,86,Two Night Stand
+Foreign,18058,PG-13,2014-03-07 00:00:00,nan,110,Journey to the West
+Foreign,16731,Unrated,2014-06-11 00:00:00,nan,231,Burning Bush
+Foreign,14817,Unrated,2014-05-14 00:00:00,nan,115,Horses of God
+Thriller,13809,R,2014-04-18 00:00:00,nan,92,13 Sins
+Drama,13302,R,2014-10-17 00:00:00,1000000,117,Camp X-Ray
+Foreign / Action,12666,R,2014-03-07 00:00:00,nan,99,Special ID
+Action Horror,12139,R,2014-11-14 00:00:00,nan,91,Wolves
+Action / Adventure,11774,R,2014-09-05 00:00:00,nan,103,Falcon Rising
+Drama,11486,R,2014-10-10 00:00:00,nan,104,You're Not You
+Foreign,11342,Unrated,2014-06-13 00:00:00,nan,89,The Amazing Catfish
+Foreign,10433,Unrated,2014-09-12 00:00:00,nan,138,Stray Dogs
+Adventure,8462,PG-13,2014-08-29 00:00:00,nan,84,Canopy
+Foreign,8425,Unrated,2014-01-31 00:00:00,nan,96,Love is in the Air
+Foreign,8244,Unrated,2014-07-11 00:00:00,nan,100,Empty Hours
+Foreign / Horror,7865,Unrated,2014-06-06 00:00:00,nan,100,Rigor Mortis
+Foreign,7440,Unrated,2014-09-26 00:00:00,nan,88,The Little Bedroom
+Documentary,7051,Unrated,2014-10-31 00:00:00,nan,84,Plot for Peace
+Drama,0,R,2014-07-25 00:00:00,nan,91,Very Good Girls
+Thriller,6871,R,2014-12-05 00:00:00,nan,110,Pioneer
+Drama,6547,PG-13,2014-01-17 00:00:00,nan,101,Life of a King
+Foreign,5885,Unrated,2014-08-01 00:00:00,nan,72,The Strange Little Cat
+Foreign,5819,Unrated,2014-06-06 00:00:00,nan,91,"2 Autumns, 3 Winters"
+Horror,5746,PG-13,2014-10-10 00:00:00,nan,86,The Devil's Hand
+Thriller,0,R,2014-06-06 00:00:00,nan,99,Anna
+Thriller,1750,Unrated,2014-11-07 00:00:00,nan,100,Open Windows
+War Drama,1714,PG-13,2014-11-07 00:00:00,nan,116,Mr. Pip
+Animation,400738009,PG,2013-11-22 00:00:00,150000000,108,Frozen
+Action / Adventure,409013994,PG-13,2013-05-03 00:00:00,200000000,129,Iron Man 3
+Animation,368061265,PG,2013-07-03 00:00:00,76000000,98,Despicable Me 2
+Fantasy,258366855,PG-13,2013-12-13 00:00:00,nan,161,The Hobbit: The Desolation of Smaug
+Action / Adventure,424668047,PG-13,2013-11-22 00:00:00,130000000,146,The Hunger Games: Catching Fire
+Action,238679850,PG-13,2013-05-24 00:00:00,160000000,130,Fast & Furious 6
+Animation,268492764,G,2013-06-21 00:00:00,nan,107,Monsters University
+Sci-Fi Thriller,274092705,PG-13,2013-10-04 00:00:00,100000000,91,Gravity
+Action / Adventure,291045518,PG-13,2013-06-14 00:00:00,225000000,143,Man of Steel
+Action / Adventure,206362140,PG-13,2013-11-08 00:00:00,170000000,120,Thor: The Dark World
+Animation,187168425,PG,2013-03-22 00:00:00,135000000,98,The Croods
+Action Horror,202359711,PG-13,2013-06-21 00:00:00,190000000,116,World War Z
+Adventure,234911825,PG,2013-03-08 00:00:00,215000000,127,Oz The Great and Powerful
+Sci-Fi Adventure,228778661,PG-13,2013-05-16 00:00:00,190000000,123,Star Trek Into Darkness
+Action,132556852,PG-13,2013-07-26 00:00:00,120000000,126,The Wolverine
+Sci-Fi Action,101802906,PG-13,2013-07-12 00:00:00,190000000,131,Pacific Rim
+Drama,116900694,R,2013-12-25 00:00:00,100000000,180,The Wolf of Wall Street
+Action,122523060,PG-13,2013-03-28 00:00:00,130000000,99,G.I. Joe: Retaliation
+Comedy,112200072,R,2013-05-23 00:00:00,103000000,100,The Hangover Part III
+Thriller,117723989,PG-13,2013-05-31 00:00:00,75000000,116,Now You See Me
+Drama,144840419,PG-13,2013-05-10 00:00:00,105000000,143,The Great Gatsby
+Family Comedy,71017784,PG,2013-07-31 00:00:00,105000000,105,The Smurfs 2
+Horror,137400141,R,2013-07-19 00:00:00,20000000,112,The Conjuring
+Action,67349198,R,2013-02-14 00:00:00,92000000,97,A Good Day to Die Hard
+Sci-Fi Adventure,89107235,PG-13,2013-04-19 00:00:00,120000000,125,Oblivion
+Sci-Fi,93050117,R,2013-08-09 00:00:00,115000000,109,Elysium
+Animation,83028128,PG,2013-07-17 00:00:00,135000000,96,Turbo
+Animation,119793567,PG,2013-09-27 00:00:00,78000000,95,Cloudy with a Chance of Meatballs 2
+Comedy,150394119,R,2013-08-07 00:00:00,37000000,110,We're the Millers
+Animation,107518682,PG,2013-05-24 00:00:00,100000000,102,Epic
+Western,89302115,PG-13,2013-07-03 00:00:00,215000000,149,The Lone Ranger
+Drama,150117807,R,2013-12-13 00:00:00,40000000,138,American Hustle
+Comedy,133668525,PG-13,2013-07-12 00:00:00,80000000,101,Grown Ups 2
+Sci-Fi,60522097,PG-13,2013-05-31 00:00:00,130000000,100,After Earth
+Animation,90288712,PG,2013-08-09 00:00:00,50000000,92,Planes
+Comedy,159582188,R,2013-06-28 00:00:00,43000000,117,The Heat
+Action Comedy,55703475,R,2013-01-25 00:00:00,50000000,88,Hansel and Gretel: Witch Hunters
+Drama,107100855,PG-13,2013-10-11 00:00:00,55000000,134,Captain Phillips
+Action Drama,73103784,PG-13,2013-06-28 00:00:00,150000000,137,White House Down
+Fantasy,68559554,PG,2013-08-07 00:00:00,90000000,106,Percy Jackson: Sea of Monsters
+Foreign,57387,Unrated,2013-02-08 00:00:00,nan,105,Lost in Thailand
+Adventure,65187603,PG-13,2013-03-01 00:00:00,195000000,114,Jack the Giant Slayer
+Comedy,58236838,PG,2013-12-25 00:00:00,90000000,114,The Secret Life of Walter Mitty
+Drama,56671993,R,2013-10-18 00:00:00,20000000,133,12 Years a Slave
+Drama,116632095,PG-13,2013-08-16 00:00:00,30000000,132,Lee Daniels' The Butler
+Comedy,134506920,R,2013-02-08 00:00:00,35000000,111,Identity Thief
+Comedy,125168368,PG-13,2013-12-18 00:00:00,50000000,119,Anchorman 2: The Legend Continues
+Horror,83586447,PG-13,2013-09-13 00:00:00,5000000,105,Insidious Chapter 2
+Thriller,98925640,R,2013-03-22 00:00:00,70000000,120,Olympus Has Fallen
+Action Drama,125095601,R,2013-12-25 00:00:00,40000000,121,Lone Survivor
+Comedy,102003019,R,2013-10-25 00:00:00,15000000,93,Jackass Presents: Bad Grandpa
+Action Drama,38362475,PG-13,2013-12-25 00:00:00,175000000,127,47 Ronin
+Action Comedy,53262560,PG-13,2013-07-19 00:00:00,84000000,116,Red 2
+Horror,71628180,PG-13,2013-01-18 00:00:00,15000000,100,Mama
+Action Thriller,25135965,R,2013-10-18 00:00:00,nan,116,Escape Plan
+Comedy,63914167,PG-13,2013-11-01 00:00:00,28000000,90,Last Vegas
+Action Comedy,75612460,R,2013-08-02 00:00:00,61000000,109,2 Guns
+Family Adventure,36076121,PG,2013-12-20 00:00:00,80000000,87,Walking with Dinosaurs
+Comedy,101470202,R,2013-06-12 00:00:00,32000000,107,This is the End
+Sci-Fi,61737191,PG-13,2013-11-01 00:00:00,110000000,114,Ender's Game
+Action Thriller,61002302,R,2013-09-20 00:00:00,46000000,146,Prisoners
+Drama,83301580,PG-13,2013-12-13 00:00:00,35000000,120,Saving Mr. Banks
+Drama,66380662,PG-13,2013-02-01 00:00:00,35000000,97,Warm Bodies
+Sci-Fi Horror,45385935,PG-13,2013-04-05 00:00:00,10000000,127,Jurassic Park 3D
+Animation,55750480,PG,2013-11-01 00:00:00,55000000,90,Free Birds
+Crime Drama,46000903,R,2013-01-11 00:00:00,60000000,113,Gangster Squad
+Drama,37709979,PG-13,2013-11-22 00:00:00,12000000,95,Philomena
+Foreign,44467206,PG-13,2013-08-30 00:00:00,nan,115,Instructions Not Included
+Sci-Fi Fantasy,42025135,R,2013-09-06 00:00:00,38000000,119,Riddick
+Romance,71349120,PG-13,2013-02-14 00:00:00,28000000,115,Safe Haven
+Horror,54239856,R,2013-04-05 00:00:00,17000000,91,Evil Dead
+Comedy,33405481,PG-13,2013-07-26 00:00:00,nan,98,Blue Jasmine
+Fantasy Drama,31165421,PG-13,2013-08-21 00:00:00,60000000,120,The Mortal Instruments: City of Bones
+Comedy,44672764,PG-13,2013-06-07 00:00:00,58000000,119,The Internship
+Action Drama,26947624,R,2013-09-20 00:00:00,38000000,123,Rush
+Thriller,64473115,R,2013-06-07 00:00:00,3000000,85,The Purge
+Foreign / Action,8031955,Unrated,2013-12-20 00:00:00,nan,172,Dhoom 3
+Comedy,15322921,R,2013-11-01 00:00:00,nan,123,About Time
+Action,49875291,R,2013-04-26 00:00:00,26000000,129,Pain and Gain
+Horror,35266619,R,2013-10-18 00:00:00,30000000,92,Carrie
+Action Comedy,36918811,R,2013-09-13 00:00:00,30000000,112,The Family
+Comedy,32015787,PG-13,2013-04-12 00:00:00,20000000,85,Scary Movie 5
+Action / Adventure,33618855,PG-13,2013-07-19 00:00:00,130000000,96,R.I.P.D.
+Foreign,23462,Unrated,2013-07-26 00:00:00,nan,116,Tiny Times
+Drama,21488481,PG-13,2013-11-08 00:00:00,nan,131,The Book Thief
+Animation,57012977,PG,2013-02-15 00:00:00,40000000,89,Escape From Planet Earth
+Comedy / Drama,37738810,R,2013-12-27 00:00:00,nan,130,August: Osage County
+Comedy / Drama,70525195,R,2013-11-15 00:00:00,17000000,122,The Best Man Holiday
+Foreign / Action,87783,Unrated,2013-09-27 00:00:00,nan,110,Young Detective Dee: Rise of the Sea Dragon
+Thriller,16973715,R,2013-10-25 00:00:00,25000000,117,The Counselor
+Thriller,51872378,R,2013-03-15 00:00:00,13000000,95,The Call
+Concert,28873374,PG,2013-08-30 00:00:00,10000000,92,One Direction: This is Us
+Foreign / Action,6594959,PG-13,2013-08-23 00:00:00,nan,130,The Grandmaster
+Thriller,32172757,R,2013-02-08 00:00:00,nan,106,Side Effects
+Sci-Fi Thriller,26627201,PG-13,2013-03-29 00:00:00,40000000,125,The Host
+Thriller,19316646,R,2013-10-04 00:00:00,30000000,91,Runner Runner
+Animation,1002895,PG,2013-03-15 00:00:00,nan,91,From Up on Poppy Hill
+Action Comedy,28795985,R,2013-08-16 00:00:00,28000000,103,Kick-Ass 2
+Comedy,40041683,R,2013-01-11 00:00:00,2500000,80,A Haunted House
+Drama,19452138,PG-13,2013-02-14 00:00:00,60000000,132,Beautiful Creatures
+Comedy,18390117,PG-13,2013-01-11 00:00:00,nan,98,Quartet
+Drama,27298285,R,2013-11-01 00:00:00,5000000,117,Dallas Buyers Club
+Foreign,515876,Unrated,2013-10-04 00:00:00,nan,142,The Face Reader
+Comedy,52543354,PG-13,2013-12-13 00:00:00,nan,105,Tyler Perry's A Madea Christmas
+Drama,51975354,PG-13,2013-03-29 00:00:00,nan,111,Tyler Perry's Temptation: Confessions of a Marriage Counselor
+Comedy,30664106,PG-13,2013-11-22 00:00:00,26000000,105,Delivery Man
+Foreign / Action,665210,Unrated,2013-02-15 00:00:00,nan,120,The Berlin File
+Action,12050299,R,2013-01-18 00:00:00,45000000,107,The Last Stand
+Comedy,25682380,R,2013-03-01 00:00:00,13000000,93,21 and Over
+Comedy / Drama,25568251,R,2013-12-18 00:00:00,23000000,120,Her
+Foreign,43788,Unrated,2013-08-16 00:00:00,nan,117,Tiny Times 2
+Horror,34341945,R,2013-01-04 00:00:00,nan,92,Texas Chainsaw 3D
+Romantic Comedy,21819348,R,2013-04-26 00:00:00,35000000,89,The Big Wedding
+Action / Crime,17616641,R,2013-01-25 00:00:00,35000000,118,Parker
+Comedy,26004851,R,2013-08-23 00:00:00,20000000,109,The World's End
+Sports Comedy,29807260,PG-13,2013-12-25 00:00:00,40000000,113,Grudge Match
+Action Thriller,20158898,R,2013-11-27 00:00:00,22000000,110,Homefront
+Action,42930462,PG-13,2013-02-22 00:00:00,nan,112,Snitch
+Drama,16131410,PG-13,2013-08-16 00:00:00,12000000,122,Jobs
+Drama,21403519,R,2013-03-29 00:00:00,15000000,140,The Place Beyond the Pines
+Comedy / Drama,13235319,R,2013-12-06 00:00:00,nan,105,Inside Llewyn Davis
+Drama,21590086,PG-13,2013-04-26 00:00:00,nan,130,Mud
+Comedy,8840453,R,2013-01-25 00:00:00,6000000,97,Movie 43
+Concert,32244051,R,2013-07-03 00:00:00,nan,75,Kevin Hart: Let Me Explain
+Crime Drama,14124284,R,2013-03-15 00:00:00,5000000,94,Spring Breakers
+Foreign,457806,Unrated,2013-03-22 00:00:00,nan,134,New World
+Comedy,24477704,R,2013-09-27 00:00:00,3000000,90,Don Jon
+Romantic Comedy,34657,R,2013-08-09 00:00:00,nan,97,I Give It a Year
+Comedy / Drama,17654912,R,2013-11-15 00:00:00,12000000,110,Nebraska
+Comedy,22537881,PG-13,2013-03-15 00:00:00,30000000,100,The Incredible Burt Wonderstone
+Drama,8323085,PG-13,2013-11-29 00:00:00,nan,139,Mandela: Long Walk to Freedom
+Animation,1029,Unrated,2013-12-06 00:00:00,nan,84,Khumba
+Thriller,17418667,PG-13,2013-02-22 00:00:00,3500000,97,Dark Skies
+Comedy,17550872,PG-13,2013-09-18 00:00:00,nan,93,Enough Said
+Crime Thriller,2328743,R,2013-04-05 00:00:00,20000000,101,Trance
+Comedy,21506546,PG-13,2013-07-05 00:00:00,nan,103,"The Way, Way Back"
+Foreign,1517410,PG-13,2013-04-26 00:00:00,nan,101,Kon-Tiki
+Romantic Comedy,21569509,PG-13,2013-09-27 00:00:00,nan,96,Baggage Claim
+Drama,335359,PG-13,2013-11-01 00:00:00,nan,113,Diana
+Foreign,2852400,Unrated,2013-11-15 00:00:00,nan,142,The Great Beauty
+Foreign / Action,0,Not Yet Rated,2013-01-06 00:00:00,nan,117,22 Bullets
+Comedy / Drama,2450867,PG-13,2013-03-22 00:00:00,nan,98,The Sapphires
+Crime Thriller,19701164,R,2013-01-18 00:00:00,35000000,109,Broken City
+Thriller,5133027,R,2013-04-05 00:00:00,nan,125,The Company You Keep
+Crime,5845732,R,2013-06-14 00:00:00,nan,90,The Bling Ring
+Horror,18494006,R,2013-08-23 00:00:00,nan,96,You're Next
+Thriller,10895295,R,2013-03-08 00:00:00,nan,110,Dead Man Down
+Comedy / Drama,18007317,PG-13,2013-03-22 00:00:00,13000000,117,Admission
+Drama,16101339,R,2013-07-12 00:00:00,nan,90,Fruitvale Station
+Drama,8888355,PG-13,2013-09-20 00:00:00,20000000,109,Battle of the Year
+Thriller,11330849,R,2013-12-04 00:00:00,22000000,106,Out of the Furnace
+Foreign,894,Unrated,2013-11-08 00:00:00,nan,82,Billy and Buddy
+Horror,15179302,PG-13,2013-03-01 00:00:00,5000000,88,The Last Exorcism Part II
+Action,8008161,R,2013-10-11 00:00:00,nan,107,Machete Kills
+Thriller,7385015,PG-13,2013-08-16 00:00:00,35000000,115,Paranoia
+Drama,6263670,PG-13,2013-10-18 00:00:00,nan,100,All Is Lost
+Animation,375627,Unrated,2013-12-06 00:00:00,nan,116,Puella Magi Madoka Magica the Movie: Rebellion
+Documentary,0,G,2013-11-27 00:00:00,nan,40,Journey to the South Pacific
+Horror Thriller,1714221,R,2013-03-01 00:00:00,12000000,,Stoker
+Foreign,389757,R,2013-04-19 00:00:00,nan,105,In the House
+Foreign,1368119,R,2013-06-28 00:00:00,nan,102,I'm So Excited
+Foreign,217883,PG-13,2013-09-20 00:00:00,nan,95,Haute Cuisine
+Drama,8114627,R,2013-05-24 00:00:00,nan,108,Before Midnight
+Foreign,1331747,PG-13,2013-12-20 00:00:00,nan,130,The Past
+Drama,779188,R,2013-07-19 00:00:00,nan,89,Only God Forgives
+Romantic Comedy,1631709,R,2013-05-03 00:00:00,nan,116,Love is All You Need
+Action Thriller,9489829,R,2013-02-01 00:00:00,nan,91,Bullet to the Head
+Comedy,9177065,PG-13,2013-05-10 00:00:00,15000000,95,Tyler Perry Presents Peeples
+Documentary,0,Unrated,2013-09-13 00:00:00,nan,45,Jerusalem
+Drama,3255008,R,2013-10-18 00:00:00,28000000,124,The Fifth Estate
+Fantasy,105095,PG-13,2013-03-15 00:00:00,nan,108,Upside Down
+Drama,3419967,R,2013-09-27 00:00:00,18000000,93,Metallica Through the Never
+Romantic Comedy,5842961,PG,2013-10-04 00:00:00,nan,112,Pulling Strings
+Musical,7018189,PG,2013-11-27 00:00:00,17500000,92,Black Nativity
+Foreign,2199787,NC-17,2013-10-25 00:00:00,nan,179,Blue Is the Warmest Color
+Comedy / Drama,1702668,PG-13,2013-06-21 00:00:00,nan,93,Unfinished Song
+Comedy / Drama,346669,Unrated,2013-04-12 00:00:00,nan,101,The Angels' Share
+Comedy / Drama,6854611,R,2013-08-02 00:00:00,nan,95,The Spectacular Now
+Crime,26650,R,2013-03-01 00:00:00,nan,112,The Sweeney
+Documentary,6206566,PG,2013-12-25 00:00:00,5000000,91,Believe
+Foreign,0,Unrated,2013-01-11 00:00:00,nan,,Matru Ki Bijlee Ka Mandola
+Thriller,5750401,R,2013-08-28 00:00:00,nan,96,Closed Circuit
+Foreign,179091,R,2013-09-06 00:00:00,nan,111,Populaire
+Foreign,175058,Unrated,2013-11-01 00:00:00,nan,112,Broken Circle Breakdown
+Foreign / Action,134213,Unrated,2013-04-12 00:00:00,nan,154,Fists of Legend
+Action Comedy,5307960,Unrated,2013-08-08 00:00:00,nan,141,Chennai Express
+Documentary,4946445,PG-13,2013-06-14 00:00:00,nan,90,20 Feet from Stardom
+Thriller,2193658,R,2013-11-27 00:00:00,30000000,120,Oldboy
+Foreign,76543,Unrated,2013-12-06 00:00:00,nan,108,Commitment
+Foreign,8884,Unrated,2013-03-29 00:00:00,nan,110,White Elephant
+Comedy / Drama,4328849,PG-13,2013-06-07 00:00:00,nan,107,Much Ado About Nothing
+Comedy / Drama,4069826,R,2013-05-17 00:00:00,nan,86,Frances Ha
+Foreign,285151,R,2013-08-16 00:00:00,nan,102,You Will Be My Son
+Foreign,3827466,Unrated,2013-05-31 00:00:00,nan,125,Yeh Jawaani Hai Deewani
+Foreign,0,Unrated,2013-05-17 00:00:00,nan,104,Pieta
+Comedy,0,Unrated,2013-03-29 00:00:00,nan,116,Mental
+Comedy,3491669,R,2013-07-26 00:00:00,1500000,100,The To-Do List
+Drama,3622,R,2013-11-01 00:00:00,nan,155,Mr. Nobody
+War Drama,3346265,PG-13,2013-03-08 00:00:00,nan,98,Emperor
+Action Comedy,3310031,R,2013-02-01 00:00:00,nan,93,Stand Up Guys
+Comedy,2963902,R,2013-08-09 00:00:00,nan,,In a World
+Foreign,2738863,Unrated,2013-11-15 00:00:00,nan,,Ram-Leela
+Foreign,101700,R,2013-10-25 00:00:00,nan,113,Capital
+Drama,2301839,PG-13,2013-05-31 00:00:00,nan,116,The East
+Drama,2387730,PG,2013-10-18 00:00:00,nan,118,I'm In Love With a Church Girl
+Foreign,2343664,R,2013-02-15 00:00:00,nan,118,No
+Foreign,2293798,R,2013-03-29 00:00:00,nan,111,Renoir
+Drama,2258620,PG,2013-11-15 00:00:00,nan,100,The Christmas Candle
+Foreign,72577,R,2013-03-15 00:00:00,nan,116,Reality
+Foreign / Action,2191534,Unrated,2013-11-01 00:00:00,nan,150,Krrish 3
+Romantic Comedy,2159041,PG-13,2013-08-16 00:00:00,nan,97,Austenland
+Foreign / Action,18759,PG-13,2013-02-08 00:00:00,nan,100,The Sorcerer and the White Snake
+Foreign,0,Unrated,2013-10-18 00:00:00,nan,106,The Snitch Cartel
+Thriller,1969193,R,2013-05-03 00:00:00,nan,105,The Iceman
+Horror,0,R,2013-10-11 00:00:00,nan,88,All the Boys Love Mandy Lane
+Foreign,1775316,PG,2013-05-24 00:00:00,nan,90,Fill the Void
+Comedy,340058,R,2013-03-22 00:00:00,nan,103,Starbuck
+Foreign,1636731,Unrated,2013-07-12 00:00:00,nan,140,Bhaag Milkha Bhaag
+Foreign,101944,Unrated,2013-08-23 00:00:00,nan,110,Therese
+Documentary,1600145,PG-13,2013-05-10 00:00:00,nan,108,Stories We Tell
+Drama,356582,R,2013-08-09 00:00:00,nan,92,Lovelace
+Foreign / Action,1579940,Unrated,2013-01-25 00:00:00,nan,150,Race 2
+Drama,1436900,R,2013-04-12 00:00:00,nan,115,Disconnect
+Comedy,1378591,PG-13,2013-07-19 00:00:00,nan,103,Girl Most Likely
+Foreign,1347747,PG,2013-09-13 00:00:00,nan,98,Wadjda
+Comedy,1315590,R,2013-05-31 00:00:00,nan,93,The Kings of Summer
+Drama,1234254,R,2013-12-25 00:00:00,nan,111,The Invisible Woman
+Foreign,21496,Unrated,2013-03-29 00:00:00,nan,,Violeta Went to Heaven
+Romance,1162635,PG-13,2013-10-11 00:00:00,nan,102,Romeo and Juliet
+Drama,1159336,PG-13,2013-05-03 00:00:00,nan,102,Still Mine
+Foreign,38674,Unrated,2013-05-31 00:00:00,nan,108,The Wall
+Foreign,1122527,Unrated,2013-02-22 00:00:00,nan,120,Kai Po Che
+Drama,1066471,R,2013-05-03 00:00:00,nan,99,What Maisie Knew
+Comedy / Drama,1065881,R,2013-09-20 00:00:00,nan,110,Thanks for Sharing
+Western,396519,R,2013-08-16 00:00:00,nan,90,Ain't Them Bodies Saints
+Drama,1030064,R,2013-10-16 00:00:00,nan,104,Kill Your Darlings
+Drama,1013100,R,2013-08-23 00:00:00,nan,96,Short Term 12
+Drama,1012973,PG-13,2013-03-15 00:00:00,nan,90,Ginger & Rosa
+Foreign,970325,Unrated,2013-02-08 00:00:00,nan,109,Lore
+Foreign,903232,Unrated,2013-06-21 00:00:00,nan,140,Raanjhana
+Horror Thriller,0,R,2013-04-05 00:00:00,nan,112,6 Souls
+Documentary,849521,PG-13,2013-09-20 00:00:00,nan,106,Generation Iron
+Foreign,13472,R,2013-03-08 00:00:00,nan,101,The Monk
+Foreign,738525,Unrated,2013-08-30 00:00:00,nan,152,Satyagraha
+Foreign,717205,Unrated,2013-05-29 00:00:00,nan,112,Hannah Arendt
+Foreign,679866,Unrated,2013-10-02 00:00:00,nan,145,Besharam
+Documentary,583633,PG-13,2013-09-06 00:00:00,nan,120,Salinger
+Foreign,613308,R,2013-07-12 00:00:00,nan,111,The Hunt
+Documentary,0,Unrated,2013-09-06 00:00:00,nan,84,Walking the Camino: Six Ways to Santiago
+Romance,587615,R,2013-04-12 00:00:00,nan,113,To The Wonder
+Foreign,581813,Unrated,2013-07-03 00:00:00,nan,136,Lootera
+Foreign,561457,Unrated,2013-06-28 00:00:00,nan,107,Museum Hours
+Thriller,552959,R,2013-04-26 00:00:00,nan,128,The Reluctant Fundamentalist
+Foreign,18929,Unrated,2013-06-07 00:00:00,nan,115,You Ain't Seen Nothin' Yet
+Drama,494608,R,2013-10-11 00:00:00,nan,108,The Inevitable Defeat of Mister and Pete
+Documentary,486919,Unrated,2013-07-19 00:00:00,nan,115,Act of Killing
+Documentary,422853,Unrated,2013-02-01 00:00:00,nan,108,Sound City
+Drama / Thriller,100616,R,2013-05-31 00:00:00,nan,104,Shadow Dancer
+Foreign,414437,R,2013-06-21 00:00:00,nan,99,A Hijacking
+Foreign,413903,Unrated,2013-09-13 00:00:00,nan,137,Grand Masti
+Foreign,410526,Unrated,2013-09-20 00:00:00,nan,146,Phata Poster Nikla Hero
+Documentary,383294,R,2013-11-08 00:00:00,nan,122,The Armstrong Lie
+Foreign / Action,0,Unrated,2013-04-26 00:00:00,nan,100,Tai Chi Hero
+Adventure,380594,R,2013-04-24 00:00:00,nan,105,At Any Price
+Foreign,375892,Unrated,2013-12-20 00:00:00,nan,118,Personal Tailor
+Foreign / Action,369573,Unrated,2013-05-03 00:00:00,nan,155,Shootout at Wadala
+Foreign,342184,Unrated,2013-11-22 00:00:00,nan,,Gori Tere Pyaar Mein
+Drama,318982,R,2013-09-06 00:00:00,nan,100,Adore
+Foreign,5872,Unrated,2013-01-04 00:00:00,nan,100,A Bottle in the Gaza Sea
+Foreign,298457,Unrated,2013-05-10 00:00:00,nan,111,Go Goa Gone
+Foreign,279735,PG-13,2013-03-29 00:00:00,nan,104,Blancanieves
+Foreign / Action,270880,Unrated,2013-03-29 00:00:00,nan,150,Himmatwala
+Romance,258656,PG-13,2013-11-08 00:00:00,nan,128,Great Expectations
+Foreign,100214,Unrated,2013-03-08 00:00:00,nan,111,The Silence
+Foreign,225668,Unrated,2013-11-22 00:00:00,nan,90,Singh Saab The Great
+Foreign,222098,Unrated,2013-02-08 00:00:00,nan,145,ABCD
+Romantic Comedy,207853,R,2013-04-26 00:00:00,nan,100,Arthur Newman
+Foreign,203044,Unrated,2013-06-28 00:00:00,nan,137,Ghanchakkar
+Drama,190022,Unrated,2013-04-26 00:00:00,nan,148,Midnight's Children
+Foreign,166503,Unrated,2013-12-06 00:00:00,nan,146,R... Rajkumar
+Documentary,166243,R,2013-05-24 00:00:00,nan,127,We Steal Secrets: The Story of Wikileaks
+Foreign,148671,R,2013-08-14 00:00:00,nan,102,The Patience Stone
+Foreign,148418,Unrated,2013-05-17 00:00:00,nan,129,Rangeelay
+Foreign / Action,128195,R,2013-07-26 00:00:00,nan,105,Drug War
+Foreign,124919,Unrated,2013-03-08 00:00:00,nan,152,Beyond the Hills
+Documentary,117090,Unrated,2013-04-26 00:00:00,nan,95,Storm Surfers 3D
+Foreign,117047,Unrated,2013-01-25 00:00:00,nan,84,Yossi
+Documentary,112449,Unrated,2013-10-25 00:00:00,nan,93,Spinning Plates
+Foreign,112135,Unrated,2013-04-19 00:00:00,nan,130,Ek Thi Daayan
+Comedy / Drama,104810,R,2013-05-17 00:00:00,nan,91,The English Teacher
+Action,100144,R,2013-11-01 00:00:00,nan,105,Man of Tai Chi
+Thriller,89237,R,2013-06-28 00:00:00,nan,118,Byzantium
+Foreign,85755,Unrated,2013-07-19 00:00:00,nan,120,The Rooftop
+Horror Thriller,81381,R,2013-09-27 00:00:00,nan,100,We Are What We Are
+Comedy / Drama,81071,R,2013-07-05 00:00:00,nan,96,Stuck in Love
+Documentary,79772,Unrated,2013-06-12 00:00:00,nan,95,More Than Honey
+Foreign,76908,Unrated,2013-02-01 00:00:00,nan,76,Caesar Must Die
+Horror,74918,R,2013-05-10 00:00:00,nan,85,No One Lives
+Foreign,70544,Unrated,2013-03-01 00:00:00,nan,,War Witch
+Documentary,0,Unrated,2013-11-01 00:00:00,nan,136,The Pervert's Guide to Ideology
+Foreign,64432,Unrated,2013-09-20 00:00:00,nan,114,My Lucky Star
+Documentary,62652,Unrated,2013-05-15 00:00:00,nan,120,Becoming Traviata
+Thriller,61782,Unrated,2013-05-10 00:00:00,nan,89,Sightseers
+Romantic Thriller,56825,R,2013-08-02 00:00:00,nan,99,The Canyons
+Foreign,46720,Unrated,2013-01-04 00:00:00,nan,,Table No. 21
+Drama,0,R,2013-06-07 00:00:00,nan,89,Wish You Were Here
+Comedy,45350,R,2013-02-08 00:00:00,nan,86,A Glimpse Inside the Mind of Charles Swan III
+Drama,42172,Unrated,2013-03-08 00:00:00,nan,103,The We and the I
+Action,39881,R,2013-07-12 00:00:00,nan,90,Killing Season
+Documentary,38602,Unrated,2013-08-02 00:00:00,nan,82,Rising From Ashes
+Horror Thriller,38493,Unrated,2013-06-14 00:00:00,nan,92,Berberian Sound Studio
+Foreign / Action,37884,PG-13,2013-09-20 00:00:00,nan,102,Ip Man: The Final Fight
+Action Thriller,36895,R,2013-06-28 00:00:00,nan,100,Redemption
+Foreign,35296,Unrated,2013-10-16 00:00:00,nan,95,Camille Claudel 1915
+Foreign,24525,Unrated,2013-10-23 00:00:00,nan,83,Bastards
+Foreign,24267,Unrated,2013-04-26 00:00:00,nan,120,Paradise: Love
+Foreign,23203,Unrated,2013-08-02 00:00:00,nan,111,Our Children
+Horror,0,R,2013-07-12 00:00:00,nan,95,V/H/S/2
+Comedy / Drama,21252,Unrated,2013-07-05 00:00:00,nan,97,The Look of Love
+Animation,21008,Unrated,2013-05-10 00:00:00,nan,76,The Painting
+Foreign,19996,R,2013-07-24 00:00:00,nan,88,Terraferma
+Romance,19684,PG-13,2013-03-22 00:00:00,nan,96,Love and Honor
+Foreign,18846,Unrated,2013-05-31 00:00:00,nan,,Nostalghia
+Documentary,18164,Unrated,2013-11-01 00:00:00,nan,89,Casting By
+Action / Adventure,17186,R,2013-06-07 00:00:00,nan,88,Violet & Daisy
+Drama,14836,R,2013-09-13 00:00:00,nan,122,Jayne Mansfield's Car
+Foreign,14350,Unrated,2013-05-24 00:00:00,nan,101,A Wedding Invitation
+Documentary,13199,Unrated,2013-09-06 00:00:00,nan,76,Red Obsession
+Drama,12189,Unrated,2013-12-20 00:00:00,nan,85,The Selfish Giant
+Drama,11650,R,2013-11-15 00:00:00,nan,103,Charlie Countryman
+Drama,11403,R,2013-07-05 00:00:00,nan,106,Just Like a Woman
+Foreign,11186,Unrated,2013-06-14 00:00:00,nan,134,So Young
+Foreign,9883,Unrated,2013-10-30 00:00:00,nan,102,In the Name Of
+Drama,9840,R,2013-08-16 00:00:00,nan,102,InchAllah
+Thriller,9747,PG-13,2013-03-27 00:00:00,nan,99,Welcome to the Punch
+Foreign,9017,Unrated,2013-01-18 00:00:00,nan,112,Clandestine Childhood
+Horror,8139,Unrated,2013-10-04 00:00:00,nan,106,Argento's Dracula 3D
+Foreign,6945,Unrated,2013-11-08 00:00:00,nan,121,Finding Mr. Right
+Foreign,6701,Unrated,2013-12-06 00:00:00,nan,92,Paradise: Hope
+Foreign,6508,Unrated,2013-08-23 00:00:00,nan,115,Paradise: Faith
+Foreign,5290,R,2013-06-14 00:00:00,nan,113,The Guillotines
+Foreign,3462,Unrated,2013-06-14 00:00:00,nan,88,The Stroller Strategy
+Drama,2749,Unrated,2013-05-10 00:00:00,nan,88,What Richard Did
+Foreign,1067,Unrated,2013-11-27 00:00:00,nan,117,Caught in the Web
+Horror,809,R,2013-09-20 00:00:00,nan,106,I Spit on Your Grave 2
+War Drama,704,R,2013-04-12 00:00:00,nan,100,Into the White
+Sci-Fi Horror,0,R,2013-01-18 00:00:00,nan,87,Storage 24
+Action / Adventure,623357910,PG-13,2012-05-04 00:00:00,220000000,142,Marvel's The Avengers
+Action,304360277,PG-13,2012-11-09 00:00:00,200000000,143,Skyfall
+Action Thriller,448139099,PG-13,2012-07-20 00:00:00,250000000,165,The Dark Knight Rises
+Fantasy,303003568,PG-13,2012-12-14 00:00:00,nan,166,The Hobbit: An Unexpected Journey
+Animation,161321843,PG,2012-07-13 00:00:00,95000000,94,Ice Age: Continental Drift
+Romance,292324737,PG-13,2012-11-16 00:00:00,120000000,116,The Twilight Saga: Breaking Dawn Part 2
+Action / Adventure,262030663,PG-13,2012-07-03 00:00:00,230000000,136,The Amazing Spider-Man
+Animation,216391482,PG,2012-06-08 00:00:00,145000000,93,Madagascar 3: Europe's Most Wanted
+Action / Adventure,408010692,PG-13,2012-03-23 00:00:00,78000000,142,The Hunger Games
+Sci-Fi Comedy,179020854,PG-13,2012-05-25 00:00:00,225000000,106,MIB 3
+Adventure,124987023,PG,2012-11-21 00:00:00,120000000,126,Life of Pi
+Comedy,218815487,R,2012-06-29 00:00:00,50000000,106,Ted
+Animation,237283207,PG,2012-06-22 00:00:00,185000000,100,Brave
+Animation,189422889,PG,2012-11-02 00:00:00,165000000,108,Wreck-It Ralph
+Musical,148809770,PG-13,2012-12-25 00:00:00,61000000,157,Les Miserables
+Foreign,10198820,R,2012-05-25 00:00:00,nan,112,The Intouchables
+Western,162805434,R,2012-12-25 00:00:00,100000000,165,Django Unchained
+Sci-Fi Action,126477084,R,2012-06-08 00:00:00,130000000,124,Prometheus
+Adventure,155332381,PG-13,2012-06-01 00:00:00,170000000,127,Snow White and the Huntsman
+Action,139854287,PG-13,2012-10-05 00:00:00,45000000,91,Taken 2
+Animation,148313048,PG,2012-09-28 00:00:00,85000000,91,Hotel Transylvania
+Animation,214030500,PG,2012-03-02 00:00:00,70000000,95,Dr. Seuss' The Lorax
+Romance,57884114,PG-13,2012-04-04 00:00:00,18000000,194,Titanic 3D
+Adventure,103860290,PG,2012-02-10 00:00:00,79000000,94,Journey 2: The Mysterious Island
+Animation,103412758,PG,2012-11-21 00:00:00,145000000,97,Rise of the Guardians
+Action,85028192,R,2012-08-17 00:00:00,100000000,102,The Expendables 2
+Fantasy,83670083,PG-13,2012-03-30 00:00:00,150000000,99,Wrath of the Titans
+Action,65422625,PG-13,2012-05-18 00:00:00,209000000,131,Battleship
+Sci-Fi Adventure,73078100,PG-13,2012-03-09 00:00:00,250000000,132,John Carter
+Action,113203870,PG-13,2012-08-10 00:00:00,125000000,135,The Bourne Legacy
+Historical Drama,182207973,PG-13,2012-11-09 00:00:00,65000000,145,Lincoln
+Horror Comedy,79727149,PG-13,2012-05-11 00:00:00,150000000,113,Dark Shadows
+Action Horror,42345531,R,2012-09-14 00:00:00,65000000,95,Resident Evil: Retribution
+Comedy,132092958,R,2012-11-16 00:00:00,21000000,122,Silver Linings Playbook
+Comedy,57011521,R,2012-04-06 00:00:00,50000000,113,American Reunion
+Drama / Thriller,136025503,R,2012-10-12 00:00:00,44500000,120,Argo
+Crime Drama,80070736,PG-13,2012-12-21 00:00:00,60000000,130,Jack Reacher
+Action Thriller,126373434,R,2012-02-10 00:00:00,85000000,117,Safe House
+Action Comedy,138447667,R,2012-03-16 00:00:00,42000000,109,21 Jump Street
+Sci-Fi Action,58877969,PG-13,2012-08-03 00:00:00,125000000,121,Total Recall
+Drama,125014030,PG-13,2012-02-10 00:00:00,30000000,104,The Vow
+Fantasy,64935167,PG,2012-03-30 00:00:00,85000000,106,Mirror Mirror
+Drama,19019882,PG-13,2012-12-21 00:00:00,nan,107,The Impossible
+Comedy,59650222,R,2012-05-16 00:00:00,65000000,83,The Dictator
+Sci-Fi Action,66486205,R,2012-09-28 00:00:00,30000000,118,Looper
+Comedy / Drama,113721571,R,2012-06-29 00:00:00,7000000,110,Magic Mike
+Drama,93772375,R,2012-11-02 00:00:00,31000000,139,Flight
+Action Horror,62321039,R,2012-01-20 00:00:00,70000000,88,Underworld Awakening
+Action,54760791,PG-13,2012-02-17 00:00:00,65000000,97,This Means War
+Animation,19202743,G,2012-02-17 00:00:00,nan,94,The Secret World of Arrietty
+Horror,53900335,R,2012-10-19 00:00:00,5000000,95,Paranormal Activity 4
+Music Drama,35074677,PG-13,2012-07-27 00:00:00,33000000,100,Step Up Revolution
+Comedy / Drama,46412041,PG-13,2012-05-04 00:00:00,10000000,118,The Best Exotic Marigold Hotel
+Thriller,95720716,R,2012-12-19 00:00:00,40000000,157,Zero Dark Thirty
+Action Horror,51774002,PG-13,2012-02-17 00:00:00,57000000,95,Ghost Rider: Spirit of Vengeance
+Sci-Fi,27108272,R,2012-10-26 00:00:00,nan,164,Cloud Atlas
+Horror Thriller,54333290,PG-13,2012-02-03 00:00:00,nan,95,The Woman in Black
+Sci-Fi Action,64575175,PG-13,2012-02-03 00:00:00,12000000,83,Chronicle
+Animation,31051126,PG,2012-04-27 00:00:00,55000000,88,The Pirates! Band of Misfits
+Comedy,77267296,PG,2012-12-25 00:00:00,25000000,104,Parental Guidance
+Horror Thriller,37519139,R,2012-06-22 00:00:00,69000000,105,Abraham Lincoln: Vampire Hunter
+Comedy,65001093,PG-13,2012-09-28 00:00:00,17000000,112,Pitch Perfect
+Comedy / Drama,63536011,PG-13,2012-08-08 00:00:00,nan,121,Hope Springs
+Animation,56003051,PG,2012-08-17 00:00:00,60000000,93,ParaNorman
+Comedy,86907746,R,2012-08-10 00:00:00,nan,97,The Campaign
+Foreign / Action,63012,Unrated,2012-03-02 00:00:00,nan,132,Let the Bullets Fly
+Sci-Fi Fantasy,43456382,PG,2012-02-10 00:00:00,nan,133,Star Wars: Episode I - The Phantom Menace
+Comedy,54731865,R,2012-03-02 00:00:00,nan,88,Project X
+Horror,53261944,R,2012-01-06 00:00:00,1000000,87,The Devil Inside
+Romance,60457138,PG-13,2012-04-20 00:00:00,nan,101,The Lucky One
+Thriller,66528000,R,2012-01-13 00:00:00,25000000,110,Contraband
+Comedy,91547205,PG-13,2012-04-20 00:00:00,12000000,122,Think Like a Man
+Comedy,67544505,R,2012-12-21 00:00:00,35000000,133,This Is 40
+Comedy,0,R,2012-09-07 00:00:00,nan,95,The Inbetweeners Movie
+Horror,49130154,PG-13,2012-08-31 00:00:00,14000000,91,The Possession
+Romantic Comedy,41152203,PG-13,2012-05-18 00:00:00,40000000,110,What to Expect When You're Expecting
+Foreign / Action,685839,Unrated,2012-10-12 00:00:00,nan,135,The Thieves
+Thriller,47382068,R,2012-07-06 00:00:00,45000000,130,Savages
+Animation,35291068,PG,2012-10-05 00:00:00,39000000,87,Frankenweenie
+Thriller,70012847,R,2012-02-24 00:00:00,12000000,111,Act of Valor
+Foreign,922921,Unrated,2012-09-21 00:00:00,nan,131,Masquerade
+Horror,48086903,R,2012-10-12 00:00:00,3000000,110,Sinister
+Action Drama,51580236,R,2012-01-27 00:00:00,25000000,117,The Grey
+Comedy,49008662,PG,2012-08-03 00:00:00,22000000,94,Diary of a Wimpy Kid: Dog Days
+Comedy,16685867,R,2012-06-22 00:00:00,nan,95,To Rome with Love
+Comedy,45290318,PG,2012-10-12 00:00:00,nan,105,Here Comes the Boom
+Animation,41128283,G,2012-09-14 00:00:00,nan,104,Finding Nemo
+Drama,12816367,R,2012-11-16 00:00:00,nan,130,Anna Karenina
+Comedy,35353000,R,2012-07-27 00:00:00,68000000,102,The Watch
+Drama,45512466,PG-13,2012-05-25 00:00:00,16000000,93,Moonrise Kingdom
+Comedy,65653242,PG-13,2012-06-29 00:00:00,20000000,114,Tyler Perry's Madea's Witness Protection
+Horror Comedy,42073277,R,2012-04-13 00:00:00,nan,95,The Cabin in the Woods
+Animation,47617067,G,2012-01-13 00:00:00,nan,84,Beauty and the Beast
+Musical,38518613,PG-13,2012-06-15 00:00:00,75000000,123,Rock of Ages
+Comedy,36931089,R,2012-06-15 00:00:00,70000000,114,That's My Boy
+Fantasy,51854875,PG,2012-08-15 00:00:00,nan,100,The Odd Life of Timothy Green
+Comedy,44338224,PG,2012-04-13 00:00:00,30000000,92,The Three Stooges
+Comedy,28835528,R,2012-04-27 00:00:00,30000000,124,The Five-Year Engagement
+Crime Drama,37400127,R,2012-08-29 00:00:00,nan,115,Lawless
+Horror,17529157,R,2012-10-26 00:00:00,20000000,94,Silent Hill: Revelation 3D
+Action / Adventure,49876377,PG-13,2012-01-20 00:00:00,58000000,120,Red Tails
+Animation,34043006,G,2012-12-19 00:00:00,nan,90,"Monsters, Inc."
+Drama,35763137,PG-13,2012-09-21 00:00:00,nan,111,Trouble with the Curve
+Foreign,206088,Unrated,2012-08-24 00:00:00,nan,154,Little White Lies
+Crime Drama,41003371,R,2012-09-21 00:00:00,7000000,109,End of Watch
+Thriller,18620000,PG-13,2012-01-27 00:00:00,42000000,102,Man on a Ledge
+Action,44806783,PG-13,2012-11-21 00:00:00,65000000,93,Red Dawn
+Thriller,31611916,PG-13,2012-09-21 00:00:00,10000000,101,House at the End of The Street
+Comedy,37134215,PG-13,2012-12-19 00:00:00,40000000,95,The Guilt Trip
+Foreign,342922,Unrated,2012-11-30 00:00:00,nan,125,A Werewolf Boy
+Action,17142080,R,2012-04-27 00:00:00,nan,95,Safe
+Crime Thriller,15026056,R,2012-11-30 00:00:00,15000000,97,Killing Them Softly
+Horror,18119640,R,2012-05-25 00:00:00,nan,90,Chernobyl Diaries
+Action Comedy,26414527,PG-13,2012-01-27 00:00:00,40000000,91,One For the Money
+Action / Adventure,13414714,R,2012-09-21 00:00:00,50000000,95,Dredd
+Drama,35025791,PG-13,2012-02-24 00:00:00,nan,129,Tyler Perry's Good Deeds
+Drama,7919574,R,2012-09-14 00:00:00,nan,100,Arbitrage
+Documentary,28972764,G,2012-04-20 00:00:00,nan,78,Chimpanzee
+Crime Thriller,25888412,PG-13,2012-10-19 00:00:00,35000000,101,Alex Cross
+Drama,9047981,PG-13,2012-03-09 00:00:00,nan,112,Salmon Fishing in the Yemen
+Foreign / Action,35730,Unrated,2012-04-06 00:00:00,nan,160,Fetih 1453: The Conquest of Constantinople
+Concert,12512862,PG,2012-12-21 00:00:00,nan,91,Cirque Du Soleil: Worlds Away
+Drama,17742948,PG-13,2012-09-21 00:00:00,nan,103,The Perks of Being a Wallflower
+Action,18942396,R,2012-01-20 00:00:00,23000000,93,Haywire
+Documentary,25326071,PG,2012-07-05 00:00:00,12000000,95,Katy Perry: Part of Me
+Sci-Fi Action,14326864,PG-13,2012-04-13 00:00:00,20000000,110,Lockout
+Comedy / Drama,30932113,PG-13,2012-01-13 00:00:00,nan,118,Joyful Noise
+Action Thriller,20275446,PG-13,2012-08-24 00:00:00,35000000,91,Premium Rush
+Thriller,16008272,R,2012-04-27 00:00:00,26000000,103,The Raven
+Foreign,777373,Unrated,2012-06-01 00:00:00,nan,130,Rowdy Rathore
+Foreign / Action,11137,R,2012-11-30 00:00:00,nan,97,Dragon
+Foreign,1216258,PG,2012-07-06 00:00:00,nan,106,Bol Bachchan
+Drama,16377274,R,2012-09-14 00:00:00,nan,137,The Master
+Foreign,2062027,R,2012-11-23 00:00:00,nan,120,Rust and Bone
+Drama,20157300,PG,2012-02-03 00:00:00,40000000,123,Big Miracle
+Music Drama,24397469,PG-13,2012-08-17 00:00:00,14000000,120,Sparkle
+Drama,6008677,PG-13,2012-11-23 00:00:00,nan,98,Hitchcock
+IMAX,0,G,2012-04-20 00:00:00,nan,40,To the Arctic
+Comedy / Drama,18450127,PG-13,2012-03-09 00:00:00,40000000,91,A Thousand Words
+Comedy,17450535,R,2012-02-24 00:00:00,nan,98,Wanderlust
+Drama,12795746,PG-13,2012-06-27 00:00:00,nan,91,Beasts of the Southern Wild
+Foreign / Action,211440,Unrated,2012-05-18 00:00:00,nan,127,Polisse
+Foreign,6739492,PG-13,2012-12-19 00:00:00,8900000,125,Amour
+Action / Adventure,15634090,R,2012-11-02 00:00:00,15000000,96,The Man with the Iron Fists
+Action Fantasy,0,R,2012-09-28 00:00:00,nan,104,Solomon Kane
+Action Comedy,15024049,R,2012-10-12 00:00:00,15000000,109,Seven Psychopaths
+Thriller,11682205,PG-13,2012-02-24 00:00:00,nan,85,Gone
+Foreign,0,Unrated,2012-01-06 00:00:00,nan,133,Norwegian Wood
+Action Thriller,3763583,PG-13,2012-09-07 00:00:00,nan,93,The Cold Light of Day
+Foreign,70177,R,2012-04-20 00:00:00,nan,144,My Way
+Action / Adventure,4936,R,2012-02-24 00:00:00,nan,103,Tomorrow When the War Began
+Foreign,548115,Unrated,2012-04-06 00:00:00,nan,105,We Have a Pope
+Thriller,1200010,R,2012-04-27 00:00:00,nan,100,Headhunters
+Action Comedy,13749300,R,2012-08-22 00:00:00,2000000,100,Hit and Run
+Foreign,47771,PG-13,2012-10-12 00:00:00,nan,,War of the Buttons
+Thriller,52624,R,2012-07-13 00:00:00,nan,113,Red Lights
+Drama,11494838,PG-13,2012-09-07 00:00:00,6000000,96,The Words
+Romantic Comedy,13102272,PG-13,2012-12-07 00:00:00,nan,95,Playing for Keeps
+Horror,12754783,R,2012-03-09 00:00:00,nan,85,Silent House
+Comedy,7251073,R,2012-03-09 00:00:00,nan,100,Friends with Kids
+Foreign,0,Unrated,2012-07-20 00:00:00,nan,107,The Well-Digger's Daughter
+Foreign,68795,R,2012-07-27 00:00:00,nan,89,Klown
+Drama,12434778,PG-13,2012-06-29 00:00:00,16000000,115,People Like Us
+Action Thriller,411746,R,2012-03-16 00:00:00,nan,105,Seeking Justice
+Comedy,447954,R,2012-09-07 00:00:00,nan,91,Bachelorette
+Comedy / Drama,143979,R,2012-11-02 00:00:00,nan,118,This Must Be the Place
+Comedy,9409538,PG-13,2012-10-26 00:00:00,14000000,90,Fun Size
+Foreign / Horror,9600,R,2012-09-07 00:00:00,nan,80,Rec 3: Genesis
+Foreign,498584,PG-13,2012-03-16 00:00:00,nan,108,Delicacy
+Comedy / Drama,7078738,R,2012-06-22 00:00:00,10000000,94,Seeking a Friend for the End of the World
+Thriller,4936819,PG-13,2012-08-24 00:00:00,17000000,82,The Apparition
+Foreign,5672846,R,2012-06-01 00:00:00,nan,143,For Greater Glory
+Period Comedy,1804139,R,2012-05-18 00:00:00,nan,100,Hysteria
+Comedy / Drama,9206470,PG-13,2012-04-27 00:00:00,nan,104,Bernie
+Drama,6002451,R,2012-10-19 00:00:00,nan,98,The Sessions
+Romantic Comedy,2540106,R,2012-07-25 00:00:00,nan,104,Ruby Sparks
+Drama,6376145,R,2012-12-07 00:00:00,nan,94,Hyde Park on Hudson
+Drama,744296,R,2012-12-21 00:00:00,nan,124,On the Road
+Comedy / Drama,0,Unrated,2012-03-02 00:00:00,nan,87,Boy
+Horror,376512,R,2012-06-01 00:00:00,nan,83,Piranha 3DD
+Foreign,205741,R,2012-07-11 00:00:00,nan,124,Easy Money
+Animation,14408,G,2012-05-18 00:00:00,nan,85,Space Dogs 3D
+Period Drama,120462,R,2012-06-08 00:00:00,nan,102,Bel Ami
+Drama,7597898,R,2012-12-28 00:00:00,nan,140,Promised Land
+Sci-Fi Comedy,122082,R,2012-07-25 00:00:00,nan,93,Iron Sky
+Comedy,5909483,R,2012-03-16 00:00:00,nan,84,Casa De Mi Padre
+Foreign,598668,Unrated,2012-09-21 00:00:00,nan,140,Heroine
+Foreign,1546761,R,2012-11-09 00:00:00,nan,132,A Royal Affair
+Foreign,43180,Unrated,2012-10-19 00:00:00,nan,96,All Together
+Foreign,0,Unrated,2012-10-19 00:00:00,nan,103,My Worst Nightmare
+Horror Thriller,6842058,R,2012-11-30 00:00:00,nan,81,The Collection
+Foreign,2009517,PG-13,2012-04-13 00:00:00,nan,94,Monsieur Lazhar
+Sports Comedy,4168528,R,2012-02-24 00:00:00,nan,91,Goon
+Drama,763556,R,2012-08-17 00:00:00,nan,108,Cosmopolis
+Sports Drama,6002756,PG,2012-10-26 00:00:00,20000000,111,Chasing Mavericks
+Foreign,59100,Unrated,2012-01-27 00:00:00,nan,110,Declaration of War
+Animation,180440,Unrated,2012-10-19 00:00:00,nan,240,Puella Magi Madoka Magica the Movie
+Drama,3014696,R,2012-01-27 00:00:00,nan,114,Albert Nobbs
+Foreign,1041455,R,2012-02-10 00:00:00,nan,145,In Darkness
+Drama,5310554,PG,2012-09-28 00:00:00,nan,121,Won't Back Down
+Foreign,1597998,R,2012-07-13 00:00:00,nan,100,Farewell My Queen
+Thriller,0,Not Yet Rated,2012-08-31 00:00:00,nan,100,The Tall Man
+Comedy / Drama,2609412,PG-13,2012-05-11 00:00:00,nan,90,Girl in Progress
+Comedy,4269426,R,2012-03-16 00:00:00,nan,83,"Jeff, Who Lives at Home"
+Foreign,1013902,PG-13,2012-12-21 00:00:00,nan,105,Barbara
+Foreign / Action,4105187,R,2012-03-23 00:00:00,nan,101,The Raid: Redemption
+Comedy,0,Not Yet Rated,2012-08-24 00:00:00,nan,,Keith Lemon: The Film
+Sci-Fi Comedy,4010957,R,2012-06-08 00:00:00,nan,85,Safety Not Guaranteed
+Sports Comedy,3377618,PG-13,2012-08-08 00:00:00,nan,88,Nitro Circus the Movie 3D
+Foreign,0,Not Yet Rated,2012-01-13 00:00:00,nan,128,"Lula, Son of Brazil"
+Drama,355391,R,2012-04-13 00:00:00,nan,145,The Lady
+Action,353513,R,2012-09-07 00:00:00,nan,106,Branded
+Animation,23392,Unrated,2012-12-07 00:00:00,nan,100,The Rabbi's Cat
+Documentary,3696196,PG-13,2012-07-27 00:00:00,nan,85,Searching for Sugar Man
+Comedy / Drama,1987762,NC-17,2012-07-27 00:00:00,nan,103,Killer Joe
+Foreign / Action,75688,Unrated,2012-07-20 00:00:00,nan,126,Hara-Kiri: Death of a Samurai
+Sci-Fi Comedy,3325038,PG-13,2012-08-17 00:00:00,nan,90,Robot & Frank
+Period Adventure,3125613,PG,2012-09-07 00:00:00,nan,115,Raiders of the Lost Ark
+Comedy / Drama,3094813,R,2012-08-03 00:00:00,nan,91,Celeste and Jesse Forever
+Foreign,3047539,Unrated,2012-11-13 00:00:00,nan,130,Jab Tak Hai Jaan
+Horror Thriller,69136,R,2012-03-30 00:00:00,nan,100,Intruders
+Foreign,2871956,Unrated,2012-11-30 00:00:00,nan,139,Talaash
+Foreign,2804874,Unrated,2012-09-14 00:00:00,nan,150,Barfi!
+Foreign,191826,Unrated,2012-04-13 00:00:00,nan,118,A Simple Life
+Documentary,2672413,PG-13,2012-08-24 00:00:00,nan,99,Samsara
+Foreign,150664,Unrated,2012-10-12 00:00:00,nan,122,Simon and the Oaks
+Foreign,2552478,PG,2012-03-09 00:00:00,nan,81,Jiro Dreams of Sushi
+Foreign,2519190,Unrated,2012-12-21 00:00:00,nan,125,Dabangg 2
+Foreign,1470000,PG-13,2012-03-16 00:00:00,nan,87,Kid With a Bike
+Documentary,2401999,PG,2012-07-20 00:00:00,nan,100,The Queen of Versailles
+Foreign,2347774,Unrated,2012-08-15 00:00:00,nan,133,Ek Tha Tiger
+Foreign,350524,Unrated,2012-02-10 00:00:00,nan,94,Chico & Rita
+Action Thriller,304318,R,2012-09-14 00:00:00,nan,96,Stolen
+Foreign,2007758,PG,2012-03-09 00:00:00,nan,103,Footnote
+Documentary,898317,Unrated,2012-07-13 00:00:00,nan,99,The Imposter
+Foreign,1986748,Unrated,2012-01-26 00:00:00,nan,168,Agneepath
+Foreign,3546,Unrated,2012-08-24 00:00:00,nan,98,The Day I Saw Your Heart
+Foreign,1862086,Unrated,2012-10-05 00:00:00,nan,134,English Vinglish
+Foreign,1791780,Unrated,2012-04-06 00:00:00,nan,145,Housefull 2
+Drama,0,PG,2012-05-11 00:00:00,nan,99,The Cup
+Animation,10975,Unrated,2012-09-26 00:00:00,nan,84,Tales of the Night
+Foreign,137515,Unrated,2012-08-17 00:00:00,nan,138,Beloved
+Drama,100343,R,2012-08-03 00:00:00,nan,111,360
+Comedy,633210,R,2012-08-10 00:00:00,nan,91,2 Days in New York
+Comedy / Drama,1636190,R,2012-06-15 00:00:00,nan,90,Your Sister's Sister
+Foreign,29864,Unrated,2012-08-24 00:00:00,nan,97,Hermano
+Comedy,20998,R,2012-12-07 00:00:00,nan,93,Lay the Favorite
+Action / Adventure,38898,R,2012-08-03 00:00:00,nan,94,Soldiers of Fortune
+Drama,1562546,R,2012-11-02 00:00:00,nan,105,A Late Quartet
+Foreign,145808,PG,2012-05-11 00:00:00,nan,128,I Wish
+Foreign,317405,Unrated,2012-03-02 00:00:00,nan,90,The Salt of Life
+Foreign,0,PG-13,2012-08-17 00:00:00,nan,93,Chicken with Plums
+Documentary,1413480,PG-13,2012-04-20 00:00:00,nan,145,Marley
+Thriller,693286,R,2012-10-05 00:00:00,nan,107,The Paperboy
+Documentary,1328467,PG-13,2012-11-09 00:00:00,nan,76,Chasing Ice
+Foreign,154189,Unrated,2012-06-29 00:00:00,nan,111,Unforgivable
+Romance,15375,PG-13,2012-05-04 00:00:00,nan,107,A Little Bit of Heaven
+Foreign,1285918,PG-13,2012-10-26 00:00:00,nan,105,The Other Son
+Documentary,777595,Unrated,2012-05-26 00:00:00,nan,,Meerkats
+Comedy,1251749,R,2012-08-31 00:00:00,nan,86,"For a Good Time, Call..."
+Drama,1239692,R,2012-06-29 00:00:00,nan,116,Take This Waltz
+Foreign,1227789,Unrated,2012-07-13 00:00:00,nan,146,Cocktail
+Foreign,0,Unrated,2012-01-04 00:00:00,nan,150,Once Upon a Time in Anatolia
+Foreign,1155545,Unrated,2012-02-10 00:00:00,nan,140,Ek Main Aur Ekk Tu
+Romance,1126525,R,2012-03-23 00:00:00,nan,98,The Deep Blue Sea
+Period Drama,757195,R,2012-01-20 00:00:00,nan,122,Coriolanus
+Documentary,1017579,PG-13,2012-09-21 00:00:00,nan,92,Diana Vreeland: The Eye Has to Travel
+Documentary,1014071,Unrated,2012-05-04 00:00:00,nan,90,First Position
+Comedy,1008455,PG-13,2012-04-06 00:00:00,nan,98,Damsels in Distress
+Crime Drama,972512,R,2012-02-10 00:00:00,nan,107,Rampart
+Foreign,157508,NC-17,2012-04-27 00:00:00,nan,96,Elles
+Historical Drama,583455,R,2012-02-03 00:00:00,nan,118,W.E.
+Foreign,4630,Unrated,2012-08-31 00:00:00,nan,94,Breathing
+Comedy,793815,PG-13,2012-04-20 00:00:00,nan,103,Darling Companion
+Foreign,781196,Unrated,2012-06-22 00:00:00,nan,120,Teri Meri Kahaani
+Foreign,771789,Unrated,2012-11-13 00:00:00,nan,145,Son of Sardaar
+Foreign / Action,698210,Unrated,2012-03-23 00:00:00,nan,157,Agent Vinod
+Foreign,670086,Unrated,2012-10-19 00:00:00,nan,,Student of the Year
+Foreign,641100,Unrated,2012-10-17 00:00:00,nan,115,Holy Motors
+Foreign,0,Unrated,2012-03-16 00:00:00,nan,99,Free Men
+Comedy / Drama,590700,R,2012-06-08 00:00:00,nan,96,"Peace, Love and Misunderstanding"
+Documentary,562218,PG-13,2012-02-17 00:00:00,nan,113,Undefeated
+Foreign,0,Unrated,2012-10-05 00:00:00,nan,97,Sister
+Foreign,549001,Unrated,2012-04-20 00:00:00,nan,142,Vicky Donor
+Comedy / Drama,540152,R,2012-03-02 00:00:00,nan,86,Being Flynn
+Documentary,534100,R,2012-07-27 00:00:00,nan,90,Ai Weiwei: Never Sorry
+Foreign,531997,PG-13,2012-05-11 00:00:00,nan,110,Where Do We Go Now?
+Documentary,279202,Unrated,2012-03-30 00:00:00,nan,98,Bully
+Foreign,0,Unrated,2012-06-15 00:00:00,nan,139,Ferrari Ki Sawaari
+Adventure,0,PG-13,2012-03-30 00:00:00,nan,94,Dark Tide
+Horror,383,R,2012-06-01 00:00:00,nan,80,Apartment 143
+Drama,408015,R,2012-04-27 00:00:00,nan,85,Sound of My Voice
+Foreign,0,Unrated,2012-12-07 00:00:00,nan,141,Khiladi 786
+Comedy / Drama,376597,R,2012-10-12 00:00:00,nan,85,Smashed
+Sci-Fi Action,5460,R,2012-11-30 00:00:00,nan,114,Universal Soldier: Day of Reckoning
+Comedy / Drama,366377,R,2012-10-05 00:00:00,nan,90,The Oranges
+Comedy / Drama,327345,PG-13,2012-09-14 00:00:00,nan,97,Liberal Arts
+Drama / Thriller,319285,R,2012-08-17 00:00:00,nan,90,Compliance
+Foreign,312954,Unrated,2012-11-30 00:00:00,nan,146,Back to 1942
+Historical Drama,311434,R,2012-01-20 00:00:00,nan,141,The Flowers of War
+Documentary,288312,R,2012-06-15 00:00:00,nan,113,Something From Nothing: The Art of Rap
+Foreign,256451,Unrated,2012-03-30 00:00:00,nan,112,Love in the Buff
+Comedy,252603,R,2012-06-08 00:00:00,nan,89,Lola Versus
+Drama,246112,Unrated,2012-09-07 00:00:00,nan,101,Keep the Lights On
+Foreign,242646,Unrated,2012-03-14 00:00:00,nan,97,Gerhard Richter Painting
+Drama,240381,R,2012-07-13 00:00:00,nan,108,Trishna
+Foreign,233380,Unrated,2012-05-16 00:00:00,nan,109,Elena
+Foreign,229931,Unrated,2012-04-27 00:00:00,nan,123,Tezz
+Foreign,220496,Unrated,2012-01-20 00:00:00,nan,122,The Viral Factor
+Documentary,215026,PG,2012-06-29 00:00:00,nan,87,Neil Young Journeys
+Foreign / Action,212094,PG-13,2012-10-19 00:00:00,nan,94,Tai Chi Zero
+Documentary,210752,Unrated,2012-10-05 00:00:00,nan,,The House I Live In
+Comedy / Drama,203373,PG-13,2012-09-14 00:00:00,nan,100,10 Years
+Foreign,0,Unrated,2012-09-21 00:00:00,nan,86,17 Girls
+Comedy,0,R,2012-03-02 00:00:00,nan,92,Tim & Eric's Billion Dollar Movie
+Drama,201395,R,2012-12-14 00:00:00,nan,97,Any Day Now
+Foreign,177743,Unrated,2012-02-24 00:00:00,nan,130,Tere Naal Love Ho Gaya
+Drama,0,R,2012-04-06 00:00:00,nan,101,The Hunter
+Comedy,105018,R,2012-10-05 00:00:00,nan,86,Butter
+Horror,29063,Unrated,2012-02-03 00:00:00,nan,95,Kill List
+Foreign / Action,0,R,2012-08-31 00:00:00,nan,122,Flying Swords of Dragon Gate
+Foreign,169181,Unrated,2012-08-31 00:00:00,nan,200,Joker
+Drama,166228,Unrated,2012-06-08 00:00:00,nan,84,Dark Horse
+Foreign,155758,Unrated,2012-08-24 00:00:00,nan,,Shirin Farhad Ki Toh Nikal Padi
+Foreign,151840,R,2012-02-17 00:00:00,nan,124,Bullhead
+Foreign,151778,Unrated,2012-10-24 00:00:00,nan,,Chakravyuh
+Foreign,143507,Unrated,2012-11-02 00:00:00,nan,,Luv Shuv Tey Chicken Khurana
+Comedy,139034,R,2012-06-01 00:00:00,nan,99,High School
+Foreign / Action,0,Unrated,2012-04-27 00:00:00,23000000,154,Warriors of the Rainbow: Seediq Bale
+Thriller,129579,Unrated,2012-10-26 00:00:00,nan,113,The Loneliest Planet
+Foreign,126700,Unrated,2012-02-24 00:00:00,nan,109,Forgiveness of Blood
+Animation,64918,PG,2012-09-07 00:00:00,nan,80,Toys in the Attic
+Foreign,0,Unrated,2012-03-30 00:00:00,nan,76,"Turn Me On, Dammit!"
+Comedy,122550,R,2012-05-11 00:00:00,nan,104,God Bless America
+Foreign / Action,117629,Unrated,2012-08-31 00:00:00,nan,104,Bullet Vanishes
+Thriller,0,R,2012-06-15 00:00:00,nan,83,The Woman in the Fifth
+Foreign,0,Unrated,2012-05-30 00:00:00,nan,90,5 Broken Cameras
+Comedy / Drama,106709,R,2012-09-07 00:00:00,nan,95,Hello I Must Be Going
+Comedy / Drama,102388,PG,2012-07-06 00:00:00,nan,109,The Magic of Belle Isle
+Foreign,101475,Unrated,2012-05-25 00:00:00,nan,95,"Oslo, August 31st"
+Drama,100915,Unrated,2012-10-05 00:00:00,nan,129,Wuthering Heights
+Foreign / Action,100809,Unrated,2012-08-31 00:00:00,nan,150,Mugamoodi
+Horror,100345,R,2012-10-05 00:00:00,nan,116,V/H/S
+Foreign,95000,Unrated,2012-04-20 00:00:00,nan,110,Goodbye First Love
+Documentary,86637,Unrated,2012-06-13 00:00:00,nan,106,Marina Abramovic: The Artist is Present
+Drama,83566,Unrated,2012-09-07 00:00:00,nan,119,The Eye of the Storm
+Documentary,0,Unrated,2012-12-07 00:00:00,nan,89,Wagner & Me
+Horror,78396,R,2012-02-03 00:00:00,nan,101,The Innkeepers
+Documentary,77016,Unrated,2012-02-29 00:00:00,nan,75,This is Not a Film
+Documentary,0,PG,2012-03-28 00:00:00,nan,101,The Island President
+Drama,0,Unrated,2012-03-16 00:00:00,nan,100,Detachment
+Documentary,0,Unrated,2012-08-10 00:00:00,nan,80,The Green Wave
+Foreign,24036,Unrated,2012-03-09 00:00:00,nan,97,Attenberg
+Crime,66351,R,2012-12-07 00:00:00,nan,94,Deadfall
+Foreign,64414,Unrated,2012-08-03 00:00:00,nan,105,Girlfriend Boyfriend - GF BF
+Foreign,59059,Unrated,2012-09-28 00:00:00,nan,92,Vulgaria
+Foreign,56391,Unrated,2012-02-10 00:00:00,nan,146,The Turin Horse
+Foreign,52618,Unrated,2012-02-24 00:00:00,nan,146,Jodi Breakers
+Foreign / Action,0,Unrated,2012-08-17 00:00:00,nan,131,Painted Skin: The Resurrection
+Foreign,47919,Unrated,2012-01-27 00:00:00,nan,115,"All's Well, End's Well"
+Foreign,28307,Unrated,2012-11-02 00:00:00,nan,,North Sea Texas
+Foreign,44788,Unrated,2012-06-08 00:00:00,nan,90,Double Trouble
+Foreign,38399,Unrated,2012-02-24 00:00:00,nan,93,The Fairy
+Documentary,0,R,2012-04-13 00:00:00,nan,103,Hit So Hard
+Foreign,0,Unrated,2012-05-11 00:00:00,nan,135,Kalakalappu@Masala Cafe
+Horror Thriller,30668,R,2012-11-02 00:00:00,nan,84,The Bay
+Documentary,29273,Unrated,2012-08-03 00:00:00,nan,100,You've Been Trumped
+Romance,26743,Unrated,2012-04-13 00:00:00,nan,126,Here
+Comedy / Drama,22836,PG-13,2012-10-19 00:00:00,nan,,The First Time
+Foreign,21267,Unrated,2012-05-11 00:00:00,nan,95,Bonsai
+Sci-Fi Thriller,20984,Unrated,2012-08-29 00:00:00,nan,90,The Day
+Drama,18869,Unrated,2012-11-09 00:00:00,nan,82,28 Hotel Rooms
+Horror Thriller,0,R,2012-05-18 00:00:00,nan,99,Lovely Molly
+Foreign,18000,Unrated,2012-03-16 00:00:00,nan,,Juan of the Dead
+Fantasy Drama,17801,R,2012-03-23 00:00:00,nan,81,4:44: Last Day on Earth
+Drama,17739,R,2012-08-29 00:00:00,nan,96,Little Birds
+Drama,16124,Unrated,2012-02-10 00:00:00,nan,97,Return
+Foreign,16057,Unrated,2012-07-13 00:00:00,nan,93,Alps
+Documentary,0,Unrated,2012-05-09 00:00:00,nan,90,Patience
+Romantic Comedy,15760,PG-13,2012-03-09 00:00:00,nan,97,Take Me Home
+Family Comedy,13569,PG,2012-03-16 00:00:00,nan,99,Reuniting the Rubins
+Foreign,3457,Unrated,2012-02-17 00:00:00,nan,113,Cirkus Columbia
+Comedy / Drama,0,R,2012-06-22 00:00:00,nan,,Grassroots
+Foreign,10135,Unrated,2012-09-21 00:00:00,nan,140,Husbands in Goa
+Foreign,10033,Unrated,2012-03-23 00:00:00,nan,99,Starry Starry Night
+Foreign,8919,Unrated,2012-06-08 00:00:00,nan,100,Corpo Celeste
+Documentary,8405,Unrated,2012-08-03 00:00:00,nan,95,Dreams of a Life
+Comedy,7889,R,2012-08-03 00:00:00,nan,95,The Babymakers
+Thriller,5206,PG-13,2012-08-31 00:00:00,nan,90,The Good Doctor
+Animation,0,Unrated,2012-11-02 00:00:00,nan,85,Liar's Autobiography
+Foreign / Action,0,Unrated,2012-05-11 00:00:00,nan,98,Sleepless Night
+Thriller,3010,R,2012-04-06 00:00:00,nan,90,ATM
+Drama,3003,R,2012-09-21 00:00:00,nan,102,About Cherry
+Romance,2959,R,2012-02-03 00:00:00,nan,89,Perfect Sense
+Romantic Comedy,2651,PG,2012-12-07 00:00:00,nan,92,Cheerful Weather for the Wedding
+Comedy,759,PG,2012-03-09 00:00:00,nan,89,The Decoy Bride
+Drama,607,Unrated,2012-05-04 00:00:00,nan,97,Death of a Superhero
+Fantasy,381011219,PG-13,2011-07-15 00:00:00,nan,130,Harry Potter and the Deathly Hallows Part 2
+Sci-Fi Action,352390543,PG-13,2011-06-29 00:00:00,195000000,154,Transformers: Dark of the Moon
+Period Adventure,241071802,PG-13,2011-05-20 00:00:00,250000000,137,Pirates of the Caribbean: On Stranger Tides
+Romance,281287133,PG-13,2011-11-18 00:00:00,110000000,108,The Twilight Saga: Breaking Dawn Part 1
+Action,209397903,PG-13,2011-12-16 00:00:00,145000000,132,Mission: Impossible - Ghost Protocol
+Animation,165249063,PG,2011-05-26 00:00:00,150000000,91,Kung Fu Panda 2
+Action,209837675,PG-13,2011-04-29 00:00:00,125000000,130,Fast Five
+Comedy,254464305,R,2011-05-26 00:00:00,80000000,102,The Hangover Part II
+Family Comedy,142614158,PG,2011-07-29 00:00:00,110000000,86,The Smurfs
+Animation,191452396,G,2011-06-24 00:00:00,200000000,113,Cars 2
+Animation,149260504,PG,2011-10-28 00:00:00,130000000,90,Puss in Boots
+Adventure,186848418,PG-13,2011-12-16 00:00:00,nan,128,Sherlock Holmes: A Game of Shadows
+Animation,143619809,G,2011-04-15 00:00:00,90000000,96,Rio
+Sci-Fi Action,176760185,PG-13,2011-08-05 00:00:00,93000000,110,Rise of the Planet of the Apes
+Action / Adventure,181030624,PG-13,2011-05-06 00:00:00,150000000,115,Thor
+Animation,77591831,PG,2011-12-21 00:00:00,nan,101,The Adventures of Tintin
+Action / Adventure,176654505,PG-13,2011-07-22 00:00:00,140000000,125,Captain America: The First Avenger
+Action / Adventure,146408305,PG-13,2011-06-03 00:00:00,160000000,131,X-Men: First Class
+Family Comedy,133110742,G,2011-12-16 00:00:00,75000000,87,Alvin and the Chipmunks: Chipwrecked
+Action Drama,85468508,PG-13,2011-10-07 00:00:00,nan,127,Real Steel
+Comedy,169106725,R,2011-05-13 00:00:00,32500000,125,Bridesmaids
+Sci-Fi,127004179,PG-13,2011-06-10 00:00:00,50000000,112,Super 8
+Animation,123477607,PG,2011-03-04 00:00:00,135000000,107,Rango
+Thriller,102515793,R,2011-12-21 00:00:00,90000000,160,The Girl with the Dragon Tattoo
+Action / Adventure,98780042,PG-13,2011-01-14 00:00:00,120000000,108,The Green Hornet
+Fantasy Drama,83504017,R,2011-11-11 00:00:00,75000000,110,Immortals
+Action / Adventure,116601172,PG-13,2011-06-17 00:00:00,200000000,105,Green Lantern
+Drama,169708112,PG-13,2011-08-10 00:00:00,25000000,137,The Help
+Comedy,100292856,R,2011-06-24 00:00:00,20000000,89,Bad Teacher
+Romantic Comedy,103028109,PG-13,2011-02-11 00:00:00,80000000,110,Just Go With It
+Sci-Fi Action,83552429,PG-13,2011-03-11 00:00:00,70000000,116,Battle: Los Angeles
+Comedy,117538559,R,2011-07-08 00:00:00,35000000,100,Horrible Bosses
+Horror,104028807,R,2011-10-21 00:00:00,5000000,81,Paranormal Activity 3
+Animation,99967670,G,2011-02-11 00:00:00,nan,84,Gnomeo and Juliet
+Family Comedy,68224452,PG,2011-06-17 00:00:00,55000000,95,Mr. Popper's Penguins
+Family Adventure,73864507,PG,2011-11-23 00:00:00,nan,127,Hugo
+Animation,94242001,G,2011-09-16 00:00:00,nan,89,The Lion King
+Comedy,108085305,PG,2011-04-01 00:00:00,63000000,90,Hop
+War,79884879,PG-13,2011-12-25 00:00:00,66000000,146,War Horse
+Comedy / Drama,82584160,R,2011-11-16 00:00:00,nan,115,The Descendants
+Sci-Fi Action,100240551,PG-13,2011-07-29 00:00:00,163000000,118,Cowboys & Aliens
+Sci-Fi Thriller,37520095,PG-13,2011-10-28 00:00:00,40000000,109,In Time
+Comedy,80360843,PG,2011-07-08 00:00:00,80000000,104,Zookeeper
+Family Comedy,88631237,PG,2011-11-23 00:00:00,45000000,120,The Muppets
+Action Thriller,79249455,PG-13,2011-03-18 00:00:00,27000000,105,Limitless
+Action Comedy,8305970,PG,2011-10-21 00:00:00,45000000,101,Johnny English Reborn
+Horror,42587643,R,2011-08-12 00:00:00,40000000,95,Final Destination 5
+Comedy,78046570,PG-13,2011-11-04 00:00:00,75000000,104,Tower Heist
+Romantic Comedy,56817045,PG-13,2011-05-20 00:00:00,17000000,88,Midnight in Paris
+Animation,64006466,PG,2011-11-18 00:00:00,nan,105,Happy Feet Two
+Sci-Fi Adventure,55100437,PG-13,2011-02-18 00:00:00,60000000,104,I Am Number Four
+Comedy,74158157,PG,2011-11-11 00:00:00,79000000,91,Jack and Jill
+Comedy,55802754,R,2011-07-22 00:00:00,35000000,120,Friends with Benefits
+Comedy,70662220,R,2011-01-21 00:00:00,25000000,110,No Strings Attached
+Animation,46462469,PG,2011-11-23 00:00:00,nan,97,Arthur Christmas
+Sci-Fi Thriller,54712227,PG-13,2011-04-01 00:00:00,32000000,94,Source Code
+Comedy,84351197,PG-13,2011-07-29 00:00:00,50000000,107,"Crazy, Stupid, Love."
+Romantic Comedy,54544638,PG-13,2011-12-09 00:00:00,56000000,117,New Year's Eve
+Action Thriller,75658097,PG-13,2011-09-09 00:00:00,60000000,105,Contagion
+Comedy / Drama,44671682,PG-13,2011-11-25 00:00:00,15000000,100,The Artist
+Period Action,20374484,PG-13,2011-10-21 00:00:00,75000000,110,The Three Musketeers
+Drama / Thriller,63686397,PG-13,2011-02-18 00:00:00,30000000,109,Unknown
+Sci-Fi Thriller,62495645,PG-13,2011-03-04 00:00:00,50200000,99,The Adjustment Bureau
+Comedy / Drama,75624550,PG,2011-12-23 00:00:00,nan,124,We Bought a Zoo
+Drama,58709717,PG-13,2011-04-22 00:00:00,38000000,120,Water for Elephants
+Drama,30017992,PG-13,2011-12-30 00:00:00,nan,105,The Iron Lady
+Sports Drama,75605492,PG-13,2011-09-23 00:00:00,50000000,126,Moneyball
+Thriller,23209310,R,2011-02-04 00:00:00,30000000,103,Sanctum
+Documentary,73013910,G,2011-02-11 00:00:00,13000000,105,Justin Bieber: Never Say Never
+Sci-Fi Comedy,37412945,R,2011-03-18 00:00:00,40000000,100,Paul
+Horror,38180928,R,2011-04-15 00:00:00,40000000,103,Scream 4
+Horror,54009150,PG-13,2011-04-01 00:00:00,1500000,98,Insidious
+Thriller,33047633,PG-13,2011-01-28 00:00:00,37000000,112,The Rite
+Family,72286779,PG,2011-09-23 00:00:00,37000000,112,Dolphin Tale
+Period Action,24827228,PG-13,2011-01-07 00:00:00,40000000,98,Season of the Witch
+Action,36392502,PG-13,2011-03-25 00:00:00,82000000,120,Sucker Punch
+Drama / Thriller,37662162,PG-13,2011-03-11 00:00:00,42000000,100,Red Riding Hood
+Family Adventure,38538188,PG,2011-08-19 00:00:00,27000000,88,Spy Kids: All the Time in the World
+Drama,37306030,R,2011-11-09 00:00:00,35000000,137,J. Edgar
+Comedy,45060734,R,2011-02-25 00:00:00,36000000,98,Hall Pass
+Action Comedy,37915414,PG-13,2011-02-18 00:00:00,32000000,107,"Big Mommas: Like Father, Like Son"
+Action,28087155,PG-13,2011-09-23 00:00:00,35000000,106,Abduction
+Thriller,24149393,R,2011-12-09 00:00:00,nan,127,"Tinker, Tailor, Soldier, Spy"
+Action Horror,29136626,PG-13,2011-05-13 00:00:00,60000000,87,Priest
+Action Drama,35060689,R,2011-09-16 00:00:00,15000000,103,Drive
+Thriller,40962534,R,2011-10-07 00:00:00,nan,102,The Ides of March
+Comedy,37081475,R,2011-08-05 00:00:00,52000000,101,The Change-Up
+Crime Drama,58009200,R,2011-03-18 00:00:00,40000000,119,The Lincoln Lawyer
+Comedy,52698535,PG,2011-03-25 00:00:00,21000000,96,Diary of a Wimpy Kid: Rodrick Rules
+Romantic Comedy,35608245,PG-13,2011-07-01 00:00:00,30000000,99,Larry Crowne
+Comedy,48475290,PG-13,2011-01-14 00:00:00,70000000,118,The Dilemma
+Sci-Fi Thriller,21443494,PG-13,2011-12-25 00:00:00,30000000,89,The Darkest Hour
+Adventure,40259119,PG-13,2011-04-08 00:00:00,30000000,111,Hanna
+Musical,51802742,PG-13,2011-10-14 00:00:00,24000000,113,Footloose
+Foreign / Action,100119,Unrated,2011-11-11 00:00:00,nan,116,Elite Squad: The Enemy Within
+Action,29121498,R,2011-01-28 00:00:00,40000000,100,The Mechanic
+Action,36665854,PG-13,2011-08-26 00:00:00,40000000,107,Colombiana
+Romantic Comedy,39046489,PG-13,2011-05-06 00:00:00,35000000,103,Something Borrowed
+Romance,13843771,PG-13,2011-08-19 00:00:00,15000000,107,One Day
+Foreign,151305,Unrated,2011-06-24 00:00:00,nan,124,Beginning of the Great Revival
+Action Thriller,25124966,R,2011-09-23 00:00:00,70000000,100,Killer Elite
+Drama,31847881,PG-13,2011-12-25 00:00:00,nan,129,Extremely Loud & Incredibly Close
+Drama,13303319,PG-13,2011-05-27 00:00:00,32000000,138,The Tree of Life
+Comedy,53345287,PG-13,2011-04-22 00:00:00,nan,105,Tyler Perry's Madea's Big Happy Family
+Foreign,459836,PG-13,2011-09-02 00:00:00,nan,119,Detective Dee and the Mystery of the Phantom Flame
+Action,21295021,R,2011-08-19 00:00:00,90000000,112,Conan the Barbarian
+Sports Drama,43853424,PG,2011-04-08 00:00:00,18000000,105,Soul Surfer
+Foreign,251200,R,2011-09-30 00:00:00,nan,122,War of the Arrows
+Comedy,33035397,PG-13,2011-04-08 00:00:00,40000000,110,Arthur
+Drama / Thriller,31177548,R,2011-08-31 00:00:00,20000000,113,The Debt
+Fantasy,27865571,PG-13,2011-03-04 00:00:00,17000000,95,Beastly
+Foreign,3954651,PG-13,2011-02-25 00:00:00,nan,122,Of Gods and Men
+Foreign,133640,Unrated,2011-01-21 00:00:00,nan,109,Evangelion 2.0: You Can
+Horror,18302607,R,2011-08-19 00:00:00,30000000,106,Fright Night
+Action Comedy,37053924,R,2011-08-12 00:00:00,28000000,83,30 Minutes or Less
+Thriller,37300107,PG-13,2011-02-04 00:00:00,16000000,93,The Roommate
+IMAX,0,G,2011-04-08 00:00:00,nan,40,Born to Be Wild
+Horror,18877153,PG-13,2011-09-02 00:00:00,25000000,95,Shark Night 3D
+Romantic Comedy,23186769,PG,2011-07-01 00:00:00,20000000,109,Monte Carlo
+Comedy / Drama,35014192,R,2011-09-30 00:00:00,8000000,99,50/50
+Animation,21392758,PG,2011-03-11 00:00:00,150000000,88,Mars Needs Moms
+Thriller,21302340,PG-13,2011-09-30 00:00:00,50000000,92,Dream House
+Comedy,37295394,PG-13,2011-05-06 00:00:00,6600000,113,Jumping the Broom
+Horror,24046682,R,2011-08-26 00:00:00,25000000,100,Don't Be Afraid of the Dark
+Foreign,2511689,Unrated,2011-10-26 00:00:00,nan,,RA One
+Comedy,35061031,R,2011-11-04 00:00:00,19000000,89,A Very Harold & Kumar 3D Christmas
+Drama,14600347,R,2011-11-23 00:00:00,nan,99,My Week with Marilyn
+Comedy,30441326,R,2011-12-09 00:00:00,25000000,100,The Sitter
+Romance,11242660,PG-13,2011-03-11 00:00:00,nan,121,Jane Eyre
+Drama,34522221,PG-13,2011-09-30 00:00:00,2000000,130,Courageous
+Foreign,66099,R,2011-09-09 00:00:00,nan,139,Shaolin
+Animation,26692846,G,2011-07-15 00:00:00,30000000,63,Winnie the Pooh
+Documentary,15428747,G,2011-04-22 00:00:00,nan,89,African Cats
+Foreign,3185812,R,2011-10-14 00:00:00,nan,120,The Skin I Live In
+Comedy,9662284,PG-13,2011-09-16 00:00:00,24000000,95,I Don't Know How She Does It
+Comedy,14011084,R,2011-09-30 00:00:00,20000000,106,What's Your Number?
+Action,10721033,R,2011-02-25 00:00:00,nan,104,Drive Angry
+Drama,2547047,R,2011-12-16 00:00:00,nan,79,Carnage
+Drama / Thriller,5704709,R,2011-11-23 00:00:00,nan,99,A Dangerous Method
+Sci-Fi Horror,16928670,R,2011-10-14 00:00:00,38000000,,The Thing
+Period Action,19490041,PG-13,2011-02-11 00:00:00,25000000,114,The Eagle
+Foreign,50433,PG-13,2011-04-22 00:00:00,nan,105,Legend of the Fist: The Return of Chen Zhen
+Sci-Fi Thriller,17687709,PG-13,2011-09-02 00:00:00,5000000,86,Apollo 18
+Foreign,5101237,R,2011-01-28 00:00:00,nan,147,Biutiful
+Comedy,21596445,R,2011-04-08 00:00:00,49900000,102,Your Highness
+Comedy,24816118,R,2011-08-26 00:00:00,5000000,90,Our Idiot Brother
+Adventure,13109815,R,2011-10-28 00:00:00,45000000,120,The Rum Diary
+Foreign,719823,Unrated,2011-10-07 00:00:00,nan,,The Women on the 6th Floor
+Foreign,1618844,R,2011-03-25 00:00:00,nan,103,Potiche
+Action,13657115,PG-13,2011-09-09 00:00:00,25000000,139,Warrior
+Comedy / Drama,16311571,R,2011-12-09 00:00:00,12000000,94,Young Adult
+Foreign,7693187,PG-13,2011-07-22 00:00:00,nan,111,Sarah's Key
+Drama,2701859,PG-13,2011-01-21 00:00:00,30000000,119,The Way Back
+Foreign,7099055,PG-13,2011-12-30 00:00:00,nan,123,A Separation
+Comedy Thriller,5360274,R,2011-07-29 00:00:00,6000000,96,The Guard
+Thriller,5354039,R,2011-10-21 00:00:00,3500000,109,Margin Call
+Concert,11862398,PG,2011-08-12 00:00:00,9000000,100,Glee The 3D Concert Movie
+Drama,3909002,NC-17,2011-12-02 00:00:00,nan,99,Shame
+Foreign,802778,R,2011-04-29 00:00:00,nan,126,13 Assassins
+Animation,10143779,PG,2011-04-29 00:00:00,30000000,85,Hoodwinked Too! Hood vs. Evil
+Foreign,10352,Unrated,2011-11-18 00:00:00,nan,108,The Heir Apparent: Largo Winch
+Comedy,164247,PG-13,2011-04-01 00:00:00,13400000,100,The Last Godfather
+Foreign,1532594,Unrated,2011-07-01 00:00:00,nan,103,Delhi Belly
+Drama,3030848,R,2011-11-11 00:00:00,nan,135,Melancholia
+Comedy,15013650,PG,2011-06-10 00:00:00,20000000,91,Judy Moody and the NOT Bummer Summer
+Historical Drama,11538204,PG-13,2011-04-15 00:00:00,25000000,122,The Conspirator
+Period Drama,4463292,PG-13,2011-10-28 00:00:00,30000000,130,Anonymous
+Foreign / Action,205675,R,2011-01-28 00:00:00,nan,107,Ip Man 2: Legend of the Grandmaster
+Foreign,157961,Unrated,2011-01-21 00:00:00,nan,107,The Housemaid
+Drama,44348,R,2011-03-18 00:00:00,nan,124,Desert Flower
+Documentary,3524826,PG,2011-12-23 00:00:00,nan,103,Pina
+Drama,5790894,R,2011-06-03 00:00:00,3200000,104,Beginners
+Foreign,666557,Unrated,2011-09-16 00:00:00,nan,82,My Afternoons with Margueritte
+Foreign,129210,Unrated,2011-03-04 00:00:00,nan,141,I Saw the Devil
+Foreign,707945,Unrated,2011-08-19 00:00:00,nan,98,The Hedgehog
+Foreign,233007,Unrated,2011-08-31 00:00:00,nan,130,Gainsbourg: A Heroic Life
+Foreign,68961,Unrated,2011-04-22 00:00:00,nan,,The Warring States
+Foreign,123526,Unrated,2011-02-03 00:00:00,nan,100,What Women Want
+Historical Drama,1348205,PG-13,2011-07-15 00:00:00,6000000,120,Snow Flower and the Secret Fan
+Comedy,10179275,R,2011-03-18 00:00:00,nan,106,Win Win
+Documentary,0,Unrated,2011-10-07 00:00:00,nan,40,Flying Monsters
+Foreign,122558,R,2011-05-11 00:00:00,12000000,132,City of Life and Death
+Foreign,611709,Unrated,2011-10-21 00:00:00,nan,103,Le Havre
+Thriller,10324441,R,2011-09-16 00:00:00,25000000,105,Straw Dogs
+Comedy / Drama,10130219,PG,2011-04-29 00:00:00,8000000,103,Prom
+Foreign,1008098,R,2011-04-01 00:00:00,5500000,119,In a Better World
+Crime Thriller,24094,R,2011-10-14 00:00:00,nan,90,Trespass
+Foreign,1400726,PG-13,2011-09-02 00:00:00,nan,100,Saving Private Perez
+Foreign,708215,R,2011-07-29 00:00:00,nan,84,Point Blank
+Foreign,543100,R,2011-03-18 00:00:00,nan,103,Winter in Wartime
+Comedy / Drama,4439201,R,2011-01-14 00:00:00,30000000,132,Barney's Version
+Foreign,44745,R,2011-12-02 00:00:00,nan,,Outrage
+Documentary,1612430,PG-13,2011-08-12 00:00:00,nan,106,Senna
+Romance,98986,R,2011-05-06 00:00:00,nan,90,Last Night
+Comedy,7204138,PG,2011-10-14 00:00:00,41000000,100,The Big Year
+Comedy / Drama,970816,PG-13,2011-05-06 00:00:00,21000000,91,The Beaver
+Comedy,6928068,R,2011-03-04 00:00:00,nan,114,Take Me Home Tonight
+Comedy,6861102,R,2011-02-11 00:00:00,nan,86,Cedar Rapids
+Foreign,352428,Unrated,2011-04-15 00:00:00,nan,135,The Princess of Montpensier
+Documentary,5304920,G,2011-04-29 00:00:00,nan,90,Cave of Forgotten Dreams
+Foreign,153215,Unrated,2011-08-12 00:00:00,3500000,129,Sex and Zen 3D: Extreme Ecstasy
+Thriller,1738692,R,2011-12-09 00:00:00,nan,112,We Need to Talk About Kevin
+Sci-Fi Comedy,1024175,R,2011-07-29 00:00:00,13000000,88,Attack the Block
+Foreign,518017,Unrated,2011-02-18 00:00:00,nan,103,Even the Rain
+Foreign,162138,Unrated,2011-11-04 00:00:00,nan,100,Young Goethe in Love
+Horror,32771,PG-13,2011-11-11 00:00:00,nan,82,11-11-11
+Foreign,1373975,Unrated,2011-03-11 00:00:00,nan,106,Certified Copy
+Foreign,463540,Unrated,2011-04-08 00:00:00,nan,125,Thank You
+Drama,4441272,R,2011-01-21 00:00:00,15000000,105,The Company Men
+Foreign,0,R,2011-09-30 00:00:00,nan,137,Force
+Horror Comedy,223838,R,2011-09-30 00:00:00,nan,89,Tucker & Dale Vs. Evil
+Crime Drama,16075,R,2011-11-11 00:00:00,nan,103,London Boulevard
+Horror Comedy,1186538,PG-13,2011-04-29 00:00:00,nan,107,Dylan Dog: Dead of Night
+Foreign,514237,R,2011-06-24 00:00:00,nan,100,The Names of Love
+Adventure,4430765,PG-13,2011-10-07 00:00:00,nan,115,The Way
+Comedy,4833,R,2011-09-09 00:00:00,nan,92,Burke and Hare
+Foreign,7615,Unrated,2011-11-18 00:00:00,nan,120,King of Devil's Island
+Drama,501360,R,2011-06-10 00:00:00,nan,130,Bride Flight
+Foreign,253444,PG-13,2011-06-10 00:00:00,nan,90,Trollhunter
+Documentary,4038912,PG,2011-06-17 00:00:00,nan,88,Buck
+Foreign,85526,Unrated,2011-02-11 00:00:00,nan,107,Carancho
+Romance,3395391,PG-13,2011-10-28 00:00:00,nan,89,Like Crazy
+Thriller,137921,PG-13,2011-10-28 00:00:00,nan,98,The Double
+Foreign / Action,3680306,Unrated,2011-12-22 00:00:00,nan,143,Don 2
+Foreign,539792,Unrated,2011-09-02 00:00:00,nan,106,Love Crime
+Foreign,2071334,R,2011-04-22 00:00:00,6800000,130,Incendies
+Drama,2990625,R,2011-10-21 00:00:00,nan,120,Martha Marcy May Marlene
+Drama,0,R,2011-10-14 00:00:00,8000000,,Fireflies in the Garden
+Action,538690,R,2011-09-23 00:00:00,30000000,123,Machine Gun Preacher
+Foreign,40548,R,2011-08-19 00:00:00,nan,101,The Last Circus
+Romantic Comedy,3033623,PG-13,2011-01-28 00:00:00,nan,107,From Prada to Nada
+Crime Comedy,5043,Unrated,2011-08-19 00:00:00,nan,87,Flypaper
+Foreign,3108485,Unrated,2011-07-15 00:00:00,nan,155,Zindagi Na Milegi Dobara
+Drama,1730296,R,2011-09-30 00:00:00,5000000,120,Take Shelter
+Animation,555166,PG,2011-10-14 00:00:00,nan,72,The Greatest Miracle
+Foreign,45759,Unrated,2011-07-06 00:00:00,nan,125,Rapt
+Foreign,161194,R,2011-12-02 00:00:00,nan,88,Pastorela
+Foreign,1514942,Unrated,2011-04-15 00:00:00,4300000,95,The Double Hour
+Comedy / Drama,2711643,R,2011-05-13 00:00:00,5000000,100,Everything Must Go
+Drama,59954,Unrated,2011-09-16 00:00:00,nan,119,3
+Drama,143480,R,2011-10-21 00:00:00,nan,105,Oranges and Sunshine
+Foreign / Action,14890,R,2011-01-14 00:00:00,nan,99,Ong Bak 3
+Foreign,356149,Unrated,2011-02-11 00:00:00,nan,139,Poetry
+Drama,71158,Unrated,2011-07-15 00:00:00,nan,100,The Tree
+Foreign / Action,47896,PG-13,2011-03-18 00:00:00,nan,95,"The Butcher, the Chef and the Swordsman"
+Comedy,2030962,Unrated,2011-06-10 00:00:00,nan,107,The Trip
+Foreign,14566,Unrated,2011-04-15 00:00:00,nan,100,Armadillo
+Foreign,1834384,Unrated,2011-08-31 00:00:00,nan,145,Bodyguard
+Period Drama,229653,R,2011-08-26 00:00:00,12000000,111,Brighton Rock
+Foreign,37743,Unrated,2011-01-14 00:00:00,nan,105,A Somewhat Gentle Man
+Documentary,29316,Unrated,2011-05-13 00:00:00,nan,84,The Topp Twins: Untouchable Girls
+Drama,1321194,PG-13,2011-07-22 00:00:00,nan,92,Another Earth
+Drama,1759252,PG-13,2011-06-24 00:00:00,10000000,97,A Better Life
+Romantic Comedy,1710,R,2011-10-14 00:00:00,nan,97,Chalet Girl
+Foreign,993031,Unrated,2011-01-14 00:00:00,nan,145,Yamla Pagla Deewana
+Documentary,1510026,Unrated,2011-03-16 00:00:00,nan,84,Bill Cunningham New York
+Romance,1430241,PG-13,2011-06-17 00:00:00,nan,84,The Art of Getting By
+Drama,1361512,R,2011-07-29 00:00:00,19100000,108,The Devil's Double
+Foreign,184292,Unrated,2011-03-02 00:00:00,nan,114,Uncle Boonmee Who Can Recall His Past Lives
+Drama,1124966,R,2011-08-05 00:00:00,nan,112,The Whistleblower
+Horror Thriller,1104682,R,2011-03-05 00:00:00,nan,97,Red State
+Drama,7200,Unrated,2011-12-07 00:00:00,nan,87,London River
+Foreign,1078826,Unrated,2011-11-25 00:00:00,nan,122,Desi Boyz
+Foreign,19631,Unrated,2011-01-28 00:00:00,nan,119,When We Leave
+Drama,1069334,PG-13,2011-05-06 00:00:00,36000000,120,There Be Dragons
+Horror Thriller,22729,R,2011-02-18 00:00:00,nan,93,Vanishing on 7th Street
+Documentary,1067028,R,2011-06-17 00:00:00,nan,88,Page One: A Year Inside the New York Times
+Foreign,32869,Unrated,2011-01-07 00:00:00,nan,105,The Time That Remains
+Foreign,986697,Unrated,2011-11-11 00:00:00,nan,,Rockstar
+Western,977772,PG,2011-04-08 00:00:00,2000000,104,Meek's Cutoff
+Crime Thriller,45469,R,2011-10-14 00:00:00,nan,109,Texas Killing Fields
+Foreign,955148,Unrated,2011-06-03 00:00:00,nan,157,Ready
+Drama,373420,PG-13,2011-03-25 00:00:00,nan,114,Miral
+Comedy / Drama,467602,R,2011-06-03 00:00:00,nan,97,Submarine
+Drama,841733,R,2011-08-26 00:00:00,2000000,109,Higher Ground
+Foreign,707885,Unrated,2011-08-19 00:00:00,4500000,120,Mozart's Sister
+Documentary,3164,Unrated,2011-01-14 00:00:00,nan,95,Plastic Planet
+Foreign,6330,Unrated,2011-07-08 00:00:00,nan,130,Chillar Party
+Foreign,728316,Unrated,2011-09-23 00:00:00,nan,155,Mausam
+Drama,332306,PG-13,2011-05-13 00:00:00,nan,103,The First Grader
+Action,703372,Unrated,2011-05-06 00:00:00,nan,86,Hobo With a Shotgun
+Documentary,696921,R,2011-07-15 00:00:00,nan,87,Tabloid
+Foreign,576639,Unrated,2011-01-21 00:00:00,nan,100,Dhobi Ghat
+Foreign,651096,Unrated,2011-08-12 00:00:00,nan,,Aarakshan
+Documentary,638476,PG-13,2011-04-22 00:00:00,1800000,90,POM Wonderful Presents: The Greatest Movie Ever Sold
+Foreign,440525,Unrated,2011-01-07 00:00:00,nan,130,No One Killed Jessica
+Foreign,8242,Unrated,2011-03-25 00:00:00,nan,111,Korkoro
+Western,200558,R,2011-10-07 00:00:00,nan,98,Blackthorn
+Foreign,0,Unrated,2011-02-04 00:00:00,nan,124,How I Ended This Summer
+Thriller,9216,R,2011-07-08 00:00:00,nan,100,The Ledge
+Foreign,68723,Unrated,2011-02-25 00:00:00,nan,100,Heartbeats
+Drama,568662,R,2011-07-29 00:00:00,1000000,91,The Future
+Foreign,564489,R,2011-04-22 00:00:00,nan,130,Dum Maaro Dum
+Foreign,543646,Unrated,2011-06-24 00:00:00,nan,138,Double Dhamaal
+Sci-Fi Comedy,118919,Unrated,2011-01-28 00:00:00,nan,86,Kaboom
+Foreign,496172,Unrated,2011-09-09 00:00:00,nan,145,Mere Brother Ki Dulhan
+Drama,484592,Unrated,2011-09-23 00:00:00,nan,97,Weekend
+Foreign,0,Unrated,2011-08-05 00:00:00,nan,98,Protektor
+Drama,454121,R,2011-08-26 00:00:00,1000000,107,Circumstance
+Drama,25423,R,2011-02-04 00:00:00,nan,102,The Other Woman
+Documentary,411184,PG-13,2011-07-08 00:00:00,nan,93,Project Nim
+Foreign,0,Unrated,2011-01-28 00:00:00,nan,89,Rage
+Foreign,64014,Unrated,2011-03-04 00:00:00,nan,103,The Human Resources Manager
+Comedy / Drama,382946,R,2011-05-13 00:00:00,7000000,109,Hesher
+Foreign,270207,Unrated,2011-02-18 00:00:00,nan,137,7 Khoon Maaf
+Drama,8464,R,2011-11-18 00:00:00,nan,115,Another Happy Day
+Foreign,350864,Unrated,2011-07-22 00:00:00,nan,143,Singham
+Historical Drama,312187,Unrated,2011-09-14 00:00:00,nan,92,The Mill and the Cross
+Comedy,327716,R,2011-04-01 00:00:00,2500000,90,Super
+Foreign,312494,Unrated,2011-05-13 00:00:00,nan,100,L'Amour Fou
+Documentary,304052,PG,2011-10-21 00:00:00,nan,76,Being Elmo: A Puppeteer's Journey
+Drama,303877,R,2011-12-23 00:00:00,nan,127,In the Land of Blood and Honey
+Foreign,8856,Unrated,2011-08-26 00:00:00,nan,95,Special Treatment
+Foreign,651,Unrated,2011-03-25 00:00:00,nan,90,Illegal
+Documentary,282448,Unrated,2011-07-29 00:00:00,nan,125,The Interrupters
+Foreign,273829,Unrated,2011-10-07 00:00:00,nan,128,Rascals
+Documentary,273749,Unrated,2011-09-09 00:00:00,nan,92,The Black Power Mix Tape: 1967-1975
+Adventure,22554,R,2011-03-11 00:00:00,nan,97,Black Death
+Foreign,152530,Unrated,2011-03-30 00:00:00,nan,88,Le Quattro Volte
+Documentary,252788,PG-13,2011-07-29 00:00:00,nan,90,Life in a Day
+Foreign,4157,Unrated,2011-05-06 00:00:00,nan,84,Caterpillar
+Foreign,1350,Unrated,2011-09-02 00:00:00,nan,100,Little Girl
+Foreign,237181,Unrated,2011-07-27 00:00:00,nan,108,El Bulli: Cooking in Progress
+Foreign,12135,Unrated,2011-01-05 00:00:00,nan,94,"If I Want to Whistle, I Whistle"
+Documentary,223880,PG-13,2011-11-11 00:00:00,nan,107,Into the Abyss
+Romantic Comedy,216110,R,2011-03-04 00:00:00,nan,94,HappyThankYouMorePlease
+Foreign,83451,Unrated,2011-02-03 00:00:00,nan,90,The Robber
+Comedy,102541,R,2011-04-08 00:00:00,nan,108,Henry's Crime
+Comedy,200227,R,2011-09-02 00:00:00,nan,95,A Good Old Fashioned Orgy
+Foreign,32977,Unrated,2011-06-03 00:00:00,nan,101,Film Socialisme
+Drama,188850,Unrated,2011-08-31 00:00:00,nan,165,Bol
+Foreign,12979,Unrated,2011-06-24 00:00:00,nan,94,Leap Year
+Foreign,9862,Unrated,2011-04-13 00:00:00,nan,92,A Screaming Man
+Documentary,183790,Unrated,2011-06-17 00:00:00,nan,93,Jig
+Documentary,163488,Unrated,2011-01-13 00:00:00,nan,90,Nostalgia for the Light
+Drama / Thriller,15790,Unrated,2011-07-08 00:00:00,nan,95,Anchor Baby
+Thriller,168226,R,2011-08-05 00:00:00,nan,105,Bellflower
+Drama,163265,PG-13,2011-09-16 00:00:00,8000000,91,Restless
+Romantic Thriller,40294,R,2011-06-10 00:00:00,nan,121,Road to Nowhere
+Documentary,154521,R,2011-08-05 00:00:00,nan,90,Magic Trip
+Documentary,153088,Unrated,2011-11-11 00:00:00,nan,82,Eames: The Architect and the Painter
+Documentary,150886,PG-13,2011-10-21 00:00:00,nan,90,Revenge of the Electric Car
+Horror,141877,Unrated,2011-10-07 00:00:00,nan,88,The Human Centipede 2: Full Sequence
+Thriller,141358,Unrated,2011-02-04 00:00:00,nan,96,Cold Weather
+Foreign / Action,139528,Unrated,2011-04-01 00:00:00,nan,135,Game
+Foreign,135739,R,2011-10-07 00:00:00,nan,,1911
+Foreign,134461,PG-13,2011-07-15 00:00:00,nan,100,"Life, Above All"
+Foreign,129834,Unrated,2011-11-16 00:00:00,nan,84,Tomboy
+Foreign,32127,Unrated,2011-05-06 00:00:00,nan,83,Octubre
+Documentary,21620,Unrated,2011-04-27 00:00:00,nan,94,The Arbor
+Foreign,110507,Unrated,2011-08-05 00:00:00,nan,272,Mysteries of Lisbon
+Documentary,85974,PG,2011-02-11 00:00:00,nan,90,Vidal Sassoon: The Movie
+Drama,120016,R,2011-04-01 00:00:00,4000000,105,Trust
+Documentary,105710,Unrated,2011-11-16 00:00:00,nan,70,Steve Jobs: The Lost Interview
+Horror Comedy,100370,R,2011-04-01 00:00:00,nan,85,Rubber
+Sci-Fi,100072,R,2011-06-24 00:00:00,nan,139,The Man Who Fell to Earth
+Documentary,81881,G,2011-09-09 00:00:00,nan,85,The Whale
+Drama,77247,R,2011-06-03 00:00:00,nan,100,Beautiful Boy
+Drama,68945,R,2011-09-23 00:00:00,nan,99,Puncture
+Foreign,66171,Unrated,2011-05-20 00:00:00,nan,,A Beautiful Life
+Foreign,27813,Unrated,2011-05-25 00:00:00,nan,99,"Tuesday, After Christmas"
+Foreign,61759,R,2011-06-10 00:00:00,nan,96,Viva Riva!
+Foreign,59472,Unrated,2011-07-08 00:00:00,nan,145,Murder 2
+Drama,55125,R,2011-10-07 00:00:00,nan,90,Dirty Girl
+War,0,Unrated,2011-01-14 00:00:00,nan,75,Battleship Potemkin
+Foreign,48557,Unrated,2011-05-13 00:00:00,nan,,Love U Mr. Kalakaar
+Drama,46495,R,2011-09-30 00:00:00,14000000,,Margaret
+Foreign,45154,R,2011-09-16 00:00:00,nan,88,"Happy, Happy"
+Comedy / Drama,41045,Unrated,2011-07-22 00:00:00,nan,96,The Myth of the American Sleepover
+Documentary,40634,Unrated,2011-10-05 00:00:00,nan,88,Hell and Back Again
+Foreign,0,Unrated,2011-11-30 00:00:00,nan,111,Khodorkovsky
+Drama,36578,Unrated,2011-12-02 00:00:00,nan,102,Sleeping Beauty
+Foreign,36533,Unrated,2011-09-09 00:00:00,nan,97,My Kingdom
+Foreign,34787,PG,2011-09-09 00:00:00,nan,103,Love in Space
+Horror,33245,R,2011-04-22 00:00:00,nan,98,Stake Land
+Crime Drama,19722,R,2011-02-18 00:00:00,nan,76,Brotherhood
+Crime Thriller,30680,R,2011-11-04 00:00:00,nan,95,The Son of No One
+Foreign,30116,Unrated,2011-09-30 00:00:00,nan,136,Muran
+Foreign,29066,Unrated,2011-07-08 00:00:00,nan,82,The Sleeping Beauty
+Drama,22321,Unrated,2011-11-18 00:00:00,nan,91,Tyrannosaur
+Comedy,22270,R,2011-04-08 00:00:00,nan,89,Ceremony
+Foreign,8705,Unrated,2011-09-02 00:00:00,nan,90,I'm Glad My Mother is Alive
+Foreign,0,Unrated,2011-06-17 00:00:00,nan,,Always Kabhi Kabhi
+Foreign,0,Not Yet Rated,2011-06-02 00:00:00,nan,113,Empire of Silver
+Action Drama,17479,R,2011-08-19 00:00:00,12000000,113,5 Days of War
+Foreign,0,Unrated,2011-06-29 00:00:00,nan,181,Aurora
+Foreign,10697,Unrated,2011-12-09 00:00:00,nan,,Magic to Win
+Thriller,8020,R,2011-04-01 00:00:00,nan,89,Wrecked
+Foreign,6850,Unrated,2011-12-09 00:00:00,nan,109,My Piece of the Pie
+Thriller,6361,R,2011-12-09 00:00:00,nan,116,I Melt With You
+Foreign,6298,Unrated,2011-09-30 00:00:00,nan,,My Joy
+Foreign,4029,Unrated,2011-04-08 00:00:00,nan,133,To Die Like a Man
+Action,0,Unrated,2011-02-11 00:00:00,20000,93,Blood Ties
+Documentary,2647,R,2011-12-09 00:00:00,nan,97,Knuckle
+Drama,2560,PG,2011-09-09 00:00:00,nan,92,Main Street
+Romantic Comedy,1926,PG-13,2011-06-03 00:00:00,nan,90,"Love, Wedding, Marriage"
+Drama,1279,PG-13,2011-05-06 00:00:00,nan,96,An Invisible Sign
